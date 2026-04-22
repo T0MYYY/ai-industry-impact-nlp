@@ -1,0 +1,73 @@
+abc news
+afp
+agence france-presse
+al jazeera
+ap
+ars technica
+associated press
+axios
+bbc
+bbc news
+bloomberg
+boston globe
+business insider
+business wire
+buzzfeed
+cbs news
+chicago tribune
+cnbc
+cnet
+cnn
+deadline
+dw news
+ein presswire
+engadget
+espn
+euronews
+financial times
+fivethirtyeight
+forbes
+fortune
+fox news
+france 24
+getty images
+globenewswire
+hollywood reporter
+huffpost
+los angeles times
+marketwatch
+mashable
+medium
+miami herald
+msnbc
+nbc news
+new york times
+npr
+pbs newshour
+pitchfork
+politico
+pr newswire
+propublica
+reuters
+rolling stone
+salon
+sky news
+slate
+tass
+techcrunch
+telegraph
+the conversation
+the daily beast
+the guardian
+the intercept
+the verge
+usa today
+variety
+venturebeat
+vice
+vox
+wall street journal
+washington post
+wired
+xinhua
+zdnet
