@@ -22,34 +22,26 @@ Motivated by the 2023 Goldman Sachs report estimating ~25% of US/Europe tasks ar
 
 ## Pipeline Overview
 
-```
-~200K News Articles (Parquet)
-           │
-           ▼
-  01  EDA & Data Profiling
-           │
-           ▼
-  02A  Sample & Label Blocks ──────► 02C  Sample & Label Sentences
-           │                                       │
-           ▼                                       ▼
-  02B  Block-level AI Relevance          02D  Sentence-level Classifier
-       Classifier → Filter Corpus             → Rebuild Clean Docs
-           │                                       │
-           └──────────────┬────────────────────────┘
-                          ▼
-             AI-Relevant Article Corpus
-          ┌───────────────┼───────────────┐
-          ▼               ▼               ▼
-    03  Topic        04  Entity      05A/B/C  Sentiment
-    Modeling        Extraction        Analysis
-  (BERTopic)    (GLiNER + LLM)   (custom-trained model)
-          │               │               │
-          └───────────────┼───────────────┘
-                          ▼
-               06  Presentation Assets
-                  (industry dashboards,
-                  sentiment over time,
-                  entity impact maps)
+```mermaid
+flowchart TD
+    A["~200K News Articles<br/>(Parquet)"] --> B["01 EDA & Data Profiling"]
+
+    B --> C["02A Sample & Label Blocks"]
+    B --> D["02C Sample & Label Sentences"]
+
+    C --> E["02B Block-level AI Relevance Classifier<br/>→ Filter Corpus"]
+    D --> F["02D Sentence-level Classifier<br/>→ Rebuild Clean Docs"]
+
+    E --> G["AI-Relevant Article Corpus"]
+    F --> G
+
+    G --> H["03 Topic Modeling<br/>(BERTopic)"]
+    G --> I["04 Entity Extraction<br/>(GLiNER + LLM)"]
+    G --> J["05A/B/C Sentiment Analysis<br/>(custom-trained model)"]
+
+    H --> K["06 Presentation Assets<br/>(industry dashboards,<br/>sentiment over time,<br/>entity impact maps)"]
+    I --> K
+    J --> K
 ```
 
 ---
