@@ -1,5 +1,30 @@
 # AI Industry Impact Analysis via NLP — UChicago ADSP 32018 Final Project
 
+<!-- BADGES_BEGIN -->
+<p align="center">
+  <img alt="Course" src="https://img.shields.io/badge/Course-ADSP%2032018-DC143C?style=flat-square&labelColor=2a323d">
+  <img alt="UChicago" src="https://img.shields.io/badge/UChicago-Next--Gen%20NLP-800000?style=flat-square&labelColor=2a323d">
+  <img alt="Term" src="https://img.shields.io/badge/Term-Winter%202025-2a323d?style=flat-square&labelColor=2a323d">
+  <img alt="Author" src="https://img.shields.io/badge/Author-Solo-1f7a3d?style=flat-square&labelColor=2a323d">
+  <img alt="Status" src="https://img.shields.io/badge/Status-Final-ec5800?style=flat-square&labelColor=2a323d">
+  <img alt="Slides" src="https://img.shields.io/badge/Slides-PPTX-EC2025?style=flat-square&labelColor=2a323d">
+</p>
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3-3776AB?style=flat-square&labelColor=2a323d&logo=python&logoColor=white">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-notebook-F37626?style=flat-square&labelColor=2a323d&logo=jupyter&logoColor=white">
+  <img alt="🤗 Transformers" src="https://img.shields.io/badge/🤗%20Transformers-4.x-FFD21E?style=flat-square&labelColor=2a323d">
+  <img alt="sentence-transformers" src="https://img.shields.io/badge/sentence--transformers-3.x-FFB000?style=flat-square&labelColor=2a323d">
+  <img alt="spaCy" src="https://img.shields.io/badge/spaCy-3.x-09A3D5?style=flat-square&labelColor=2a323d&logo=spacy&logoColor=white">
+  <img alt="BERTopic" src="https://img.shields.io/badge/BERTopic-0.16-7B68EE?style=flat-square&labelColor=2a323d">
+  <img alt="UMAP" src="https://img.shields.io/badge/UMAP-0.5-A38EE6?style=flat-square&labelColor=2a323d">
+  <img alt="HDBSCAN" src="https://img.shields.io/badge/HDBSCAN-0.8-8B5CF6?style=flat-square&labelColor=2a323d">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-2.x-EE4C2C?style=flat-square&labelColor=2a323d&logo=pytorch&logoColor=white">
+  <img alt="GLiNER" src="https://img.shields.io/badge/GLiNER-NER-1F2937?style=flat-square&labelColor=2a323d">
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-2.x-150458?style=flat-square&labelColor=2a323d&logo=pandas&logoColor=white">
+</p>
+<!-- BADGES_END -->
+
 **Course:** ADSP 32018 — Next-Gen NLP: Transformers, LLMs and Agentic AI in Practice (Winter 2025, University of Chicago)  
 **Author:** Chiyang Chen  
 **Dataset:** ~200K news articles on AI, ML, and data science
