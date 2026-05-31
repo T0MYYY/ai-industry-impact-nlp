@@ -94,11 +94,11 @@ flowchart TD
     class BlockLabels,SentenceLabels,Entities,SentimentData accent
     class BlockModel,SentenceModel,Topics,SentimentModel secondary
     class SentimentAgg,Assets success
-    classDef primary fill:#A5CFFC,stroke:#6196CF,color:#203040
-    classDef secondary fill:#5BE9AD,stroke:#1FAC78,color:#203040
-    classDef accent fill:#FDBD67,stroke:#C3831A,color:#203040
-    classDef success fill:#4AE9B7,stroke:#1FAB83,color:#203040
-    classDef info fill:#92D4FC,stroke:#429CCE,color:#203040
+    classDef primary fill:#00A8B8,stroke:#00A8B8,color:#203040
+    classDef secondary fill:#688858,stroke:#688858,color:#203040
+    classDef accent fill:#F86800,stroke:#F86800,color:#203040
+    classDef success fill:#00B800,stroke:#00B800,color:#203040
+    classDef info fill:#7080A0,stroke:#7080A0,color:#203040
 ```
 
 ---
