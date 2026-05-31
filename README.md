@@ -48,24 +48,57 @@ Motivated by the 2023 Goldman Sachs report estimating ~25% of US/Europe tasks ar
 
 ```mermaid
 flowchart TD
-    A["~200K News Articles<br/>(Parquet)"] --> B["01 EDA & Data Profiling"]
+    subgraph Source["Source Corpus and Profiling"]
+        Raw["Raw news corpus<br/>news_final_project.parquet<br/>~200K articles"]
+        EDA["01 Data ingestion and EDA<br/>schema, missingness, duplicates<br/>time and text-scale diagnostics"]
+    end
 
-    B --> C["02A Sample & Label Blocks"]
-    B --> D["02C Sample & Label Sentences"]
+    subgraph Filtering["AI-Relevance Filtering"]
+        Docs["02A Document table<br/>docs.parquet<br/>domain and quarter buckets"]
+        Blocks["02A Paragraph block shards<br/>blocks/part_*.parquet"]
+        BlockSample["02A Stratified block sample<br/>block_sample.parquet"]
+        BlockLabels["02A DeepSeek block labels<br/>block_labels.parquet"]
+        BlockModel["02B Block encoder classifier<br/>validation threshold selection"]
+        AIBlocks["02B AI-positive block corpus<br/>ai_blocks.parquet"]
+        Sentences["02C Sentence shards from AI blocks<br/>sentences/part_*.parquet"]
+        SentenceSample["02C Stratified sentence sample<br/>sentences_sample.parquet"]
+        SentenceLabels["02C DeepSeek sentence labels<br/>sentence_labels.parquet"]
+        SentenceModel["02D Sentence content classifier<br/>full-corpus prediction"]
+        CleanCorpus["02D Rebuilt clean AI corpus<br/>clean_ai_blocks.parquet<br/>clean_ai_docs.parquet"]
+    end
 
-    C --> E["02B Block-level AI Relevance Classifier<br/>→ Filter Corpus"]
-    D --> F["02D Sentence-level Classifier<br/>→ Rebuild Clean Docs"]
+    subgraph Analysis["Industry, Entity, and Sentiment Analysis"]
+        Topics["03 BERTopic modeling<br/>topic_summary.csv<br/>topic_time_panel.parquet"]
+        Entities["04 GLiNER entity extraction<br/>deterministic canonicalization<br/>LLM entity merge"]
+        EntityContexts["04 Entity analysis tables<br/>entity_analysis_summary.parquet<br/>entity_contexts_final.parquet"]
+        SentimentData["05A Entity-conditioned label pool<br/>DeepSeek sentiment labels<br/>sentiment_training_data.parquet"]
+        SentimentModel["05B Transformer sentiment classifier<br/>best_model/<br/>validation metrics"]
+        SentimentAgg["05C Full sentiment inference<br/>entity, type, time, domain<br/>and optional topic aggregation"]
+    end
 
-    E --> G["AI-Relevant Article Corpus"]
-    F --> G
+    subgraph Outputs["Presentation Outputs"]
+        Assets["06 Presentation assets<br/>executive summary panels<br/>industry rankings<br/>entity impact maps"]
+    end
 
-    G --> H["03 Topic Modeling<br/>(BERTopic)"]
-    G --> I["04 Entity Extraction<br/>(GLiNER + LLM)"]
-    G --> J["05A/B/C Sentiment Analysis<br/>(custom-trained model)"]
+    Raw --> EDA --> Docs --> Blocks --> BlockSample --> BlockLabels --> BlockModel --> AIBlocks
+    AIBlocks --> Sentences --> SentenceSample --> SentenceLabels --> SentenceModel --> CleanCorpus
+    CleanCorpus --> Topics
+    CleanCorpus --> Entities --> EntityContexts --> SentimentData --> SentimentModel --> SentimentAgg
+    Topics --> SentimentAgg
+    Topics --> Assets
+    EntityContexts --> Assets
+    SentimentAgg --> Assets
 
-    H --> K["06 Presentation Assets<br/>(industry dashboards,<br/>sentiment over time,<br/>entity impact maps)"]
-    I --> K
-    J --> K
+    class Raw,Docs,Blocks,AIBlocks,Sentences,CleanCorpus primary
+    class EDA,BlockSample,SentenceSample info
+    class BlockLabels,SentenceLabels,Entities,SentimentData accent
+    class BlockModel,SentenceModel,Topics,SentimentModel secondary
+    class EntityContexts,SentimentAgg,Assets success
+    classDef primary fill:#A5CFFC,stroke:#6196CF,color:#203040
+    classDef secondary fill:#5BE9AD,stroke:#1FAC78,color:#203040
+    classDef accent fill:#FDBD67,stroke:#C3831A,color:#203040
+    classDef success fill:#4AE9B7,stroke:#1FAB83,color:#203040
+    classDef info fill:#92D4FC,stroke:#429CCE,color:#203040
 ```
 
 ---
