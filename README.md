@@ -49,35 +49,35 @@ Motivated by the 2023 Goldman Sachs report estimating ~25% of US/Europe tasks ar
 ```mermaid
 flowchart TD
     subgraph Source["Source Corpus and Profiling"]
-        Raw["Raw news corpus<br/>news_final_project.parquet<br/>~200K articles"]
-        EDA["01 Data ingestion and EDA<br/>schema, missingness, duplicates<br/>time and text-scale diagnostics"]
+        Raw@{ shape: cyl, label: "Raw news corpus<br/>news_final_project.parquet<br/>~200K articles" }
+        EDA@{ shape: doc, label: "01 Data ingestion and EDA<br/>schema, missingness, duplicates<br/>time and text-scale diagnostics" }
     end
 
     subgraph Filtering["AI-Relevance Filtering"]
-        Docs["02A Document table<br/>docs.parquet<br/>domain and quarter buckets"]
-        Blocks["02A Paragraph block shards<br/>blocks/part_*.parquet"]
-        BlockSample["02A Stratified block sample<br/>block_sample.parquet"]
-        BlockLabels["02A DeepSeek block labels<br/>block_labels.parquet"]
-        BlockModel["02B Block encoder classifier<br/>validation threshold selection"]
-        AIBlocks["02B AI-positive block corpus<br/>ai_blocks.parquet"]
-        Sentences["02C Sentence shards from AI blocks<br/>sentences/part_*.parquet"]
-        SentenceSample["02C Stratified sentence sample<br/>sentences_sample.parquet"]
-        SentenceLabels["02C DeepSeek sentence labels<br/>sentence_labels.parquet"]
-        SentenceModel["02D Sentence content classifier<br/>full-corpus prediction"]
-        CleanCorpus["02D Rebuilt clean AI corpus<br/>clean_ai_blocks.parquet<br/>clean_ai_docs.parquet"]
+        Docs@{ shape: doc, label: "02A Document table<br/>docs.parquet<br/>domain and quarter buckets" }
+        Blocks@{ shape: lin-doc, label: "02A Paragraph block shards<br/>blocks/part_*.parquet" }
+        BlockSample@{ shape: bow-rect, label: "02A Stratified block sample<br/>block_sample.parquet" }
+        BlockLabels@{ shape: tag-doc, label: "02A DeepSeek block labels<br/>block_labels.parquet" }
+        BlockModel@{ shape: fr-rect, label: "02B Block encoder classifier<br/>validation threshold selection" }
+        AIBlocks@{ shape: cyl, label: "02B AI-positive block corpus<br/>ai_blocks.parquet" }
+        Sentences@{ shape: lin-doc, label: "02C Sentence shards from AI blocks<br/>sentences/part_*.parquet" }
+        SentenceSample@{ shape: bow-rect, label: "02C Stratified sentence sample<br/>sentences_sample.parquet" }
+        SentenceLabels@{ shape: tag-doc, label: "02C DeepSeek sentence labels<br/>sentence_labels.parquet" }
+        SentenceModel@{ shape: fr-rect, label: "02D Sentence content classifier<br/>full-corpus prediction" }
+        CleanCorpus@{ shape: cyl, label: "02D Rebuilt clean AI corpus<br/>clean_ai_blocks.parquet<br/>clean_ai_docs.parquet" }
     end
 
     subgraph Analysis["Industry, Entity, and Sentiment Analysis"]
-        Topics["03 BERTopic modeling<br/>topic_summary.csv<br/>topic_time_panel.parquet"]
-        Entities["04 GLiNER entity extraction<br/>deterministic canonicalization<br/>LLM entity merge"]
-        EntityContexts["04 Entity analysis tables<br/>entity_analysis_summary.parquet<br/>entity_contexts_final.parquet"]
-        SentimentData["05A Entity-conditioned label pool<br/>DeepSeek sentiment labels<br/>sentiment_training_data.parquet"]
-        SentimentModel["05B Transformer sentiment classifier<br/>best_model/<br/>validation metrics"]
-        SentimentAgg["05C Full sentiment inference<br/>entity, type, time, domain<br/>and optional topic aggregation"]
+        Topics@{ shape: fr-rect, label: "03 BERTopic modeling<br/>topic_summary.csv<br/>topic_time_panel.parquet" }
+        Entities@{ shape: tag-rect, label: "04 GLiNER entity extraction<br/>deterministic canonicalization<br/>LLM entity merge" }
+        EntityContexts@{ shape: docs, label: "04 Entity analysis tables<br/>entity_analysis_summary.parquet<br/>entity_contexts_final.parquet" }
+        SentimentData@{ shape: tag-doc, label: "05A Entity-conditioned label pool<br/>DeepSeek sentiment labels<br/>sentiment_training_data.parquet" }
+        SentimentModel@{ shape: fr-rect, label: "05B Transformer sentiment classifier<br/>best_model/<br/>validation metrics" }
+        SentimentAgg@{ shape: st-rect, label: "05C Full sentiment inference<br/>entity, type, time, domain<br/>and optional topic aggregation" }
     end
 
     subgraph Outputs["Presentation Outputs"]
-        Assets["06 Presentation assets<br/>executive summary panels<br/>industry rankings<br/>entity impact maps"]
+        Assets@{ shape: docs, label: "06 Presentation assets<br/>executive summary panels<br/>industry rankings<br/>entity impact maps" }
     end
 
     Raw --> EDA --> Docs --> Blocks --> BlockSample --> BlockLabels --> BlockModel --> AIBlocks
@@ -89,11 +89,11 @@ flowchart TD
     EntityContexts --> Assets
     SentimentAgg --> Assets
 
-    class Raw,Docs,Blocks,AIBlocks,Sentences,CleanCorpus primary
-    class EDA,BlockSample,SentenceSample info
+    class Raw,Docs,Blocks,AIBlocks,Sentences,CleanCorpus,EntityContexts info
+    class EDA,BlockSample,SentenceSample primary
     class BlockLabels,SentenceLabels,Entities,SentimentData accent
     class BlockModel,SentenceModel,Topics,SentimentModel secondary
-    class EntityContexts,SentimentAgg,Assets success
+    class SentimentAgg,Assets success
     classDef primary fill:#A5CFFC,stroke:#6196CF,color:#203040
     classDef secondary fill:#5BE9AD,stroke:#1FAC78,color:#203040
     classDef accent fill:#FDBD67,stroke:#C3831A,color:#203040
