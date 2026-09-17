@@ -1,14 +1,8 @@
-# AI Industry Impact Analysis via NLP — UChicago ADSP 32018 Final Project
+# AI Industry Impact Analysis via NLP
+
+> Which industries does AI actually disrupt? An end-to-end NLP pipeline over ~200K tech news articles: topic modeling, entity extraction, and sentiment analysis.
 
 <!-- BADGES_BEGIN -->
-<p align="center">
-  <img alt="Course" src="https://img.shields.io/badge/Course-ADSP%2032018-DC143C?style=flat-square&labelColor=2a323d">
-  <img alt="UChicago" src="https://img.shields.io/badge/UChicago-Next--Gen%20NLP-800000?style=flat-square&labelColor=2a323d">
-  <img alt="Term" src="https://img.shields.io/badge/Term-Winter%202025-2a323d?style=flat-square&labelColor=2a323d">
-  <img alt="Author" src="https://img.shields.io/badge/Author-Solo-1f7a3d?style=flat-square&labelColor=2a323d">
-  <img alt="Status" src="https://img.shields.io/badge/Status-Final-ec5800?style=flat-square&labelColor=2a323d">
-</p>
-
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&labelColor=2a323d&logo=python&logoColor=white">
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-notebook-F37626?style=flat-square&labelColor=2a323d&logo=jupyter&logoColor=white">
@@ -21,6 +15,14 @@
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-2.10-EE4C2C?style=flat-square&labelColor=2a323d&logo=pytorch&logoColor=white">
   <img alt="GLiNER" src="https://img.shields.io/badge/GLiNER-0.2-1F2937?style=flat-square&labelColor=2a323d">
   <img alt="pandas" src="https://img.shields.io/badge/pandas-2.2-150458?style=flat-square&labelColor=2a323d&logo=pandas&logoColor=white">
+</p>
+
+<p align="center">
+  <img alt="Course" src="https://img.shields.io/badge/Course-ADSP%2032018-DC143C?style=flat-square&labelColor=2a323d">
+  <img alt="UChicago" src="https://img.shields.io/badge/UChicago-Next--Gen%20NLP-800000?style=flat-square&labelColor=2a323d">
+  <img alt="Term" src="https://img.shields.io/badge/Term-Winter%202025-2a323d?style=flat-square&labelColor=2a323d">
+  <img alt="Author" src="https://img.shields.io/badge/Author-Solo-1f7a3d?style=flat-square&labelColor=2a323d">
+  <img alt="Status" src="https://img.shields.io/badge/Status-Final-ec5800?style=flat-square&labelColor=2a323d">
 </p>
 <!-- BADGES_END -->
 
