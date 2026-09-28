@@ -1,0 +1,7 @@
+# Colab ships torch, transformers, sentence-transformers, cuML, pandas, pyarrow, scikit-learn,
+# matplotlib and httpx; these are the additional packages the pipeline uses.
+bertopic
+datasketch
+fasttext-predict
+gliner
+python-pptx

@@ -1,0 +1,1257 @@
+topic,quarter,share,label,industry
+0,2022Q1,0.1632762312633833,AI in Healthcare and Pharma,healthcare_life_sciences
+0,2022Q2,0.13005109150023222,AI in Healthcare and Pharma,healthcare_life_sciences
+0,2022Q3,0.15137401024685607,AI in Healthcare and Pharma,healthcare_life_sciences
+0,2022Q4,0.13219616204690832,AI in Healthcare and Pharma,healthcare_life_sciences
+0,2023Q1,0.07030474840538625,AI in Healthcare and Pharma,healthcare_life_sciences
+0,2023Q2,0.0659982478341283,AI in Healthcare and Pharma,healthcare_life_sciences
+0,2023Q3,0.08188044831880448,AI in Healthcare and Pharma,healthcare_life_sciences
+0,2023Q4,0.08101371001246364,AI in Healthcare and Pharma,healthcare_life_sciences
+0,2024Q1,0.0725029758684125,AI in Healthcare and Pharma,healthcare_life_sciences
+0,2024Q2,0.060889671878440875,AI in Healthcare and Pharma,healthcare_life_sciences
+0,2024Q3,0.07550568024383486,AI in Healthcare and Pharma,healthcare_life_sciences
+0,2024Q4,0.07788338771456944,AI in Healthcare and Pharma,healthcare_life_sciences
+0,2025Q1,0.05932776900518836,AI in Healthcare and Pharma,healthcare_life_sciences
+0,2025Q2,0.06245749263205622,AI in Healthcare and Pharma,healthcare_life_sciences
+0,2025Q3,0.05008944543828265,AI in Healthcare and Pharma,healthcare_life_sciences
+0,2025Q4,0.04799937358076893,AI in Healthcare and Pharma,healthcare_life_sciences
+1,2022Q1,0.08190578158458243,AI Safety Policy Summits,government_defense
+1,2022Q2,0.13841151881096145,AI Safety Policy Summits,government_defense
+1,2022Q3,0.10246856078248719,AI Safety Policy Summits,government_defense
+1,2022Q4,0.10660980810234541,AI Safety Policy Summits,government_defense
+1,2023Q1,0.11637136782423813,AI Safety Policy Summits,government_defense
+1,2023Q2,0.20987053441059086,AI Safety Policy Summits,government_defense
+1,2023Q3,0.1564964715649647,AI Safety Policy Summits,government_defense
+1,2023Q4,0.1735562941420856,AI Safety Policy Summits,government_defense
+1,2024Q1,0.14056920246726545,AI Safety Policy Summits,government_defense
+1,2024Q2,0.1287161418189826,AI Safety Policy Summits,government_defense
+1,2024Q3,0.13355500138542534,AI Safety Policy Summits,government_defense
+1,2024Q4,0.11788906227833736,AI Safety Policy Summits,government_defense
+1,2025Q1,0.1222648319422513,AI Safety Policy Summits,government_defense
+1,2025Q2,0.1218544547721605,AI Safety Policy Summits,government_defense
+1,2025Q3,0.12386063548854247,AI Safety Policy Summits,government_defense
+1,2025Q4,0.10367238274215018,AI Safety Policy Summits,government_defense
+2,2022Q1,0.07869379014989293,AI in Customer Experience,software_it
+2,2022Q2,0.07524384579656293,AI in Customer Experience,software_it
+2,2022Q3,0.07545412203074056,AI in Customer Experience,software_it
+2,2022Q4,0.06950959488272922,AI in Customer Experience,software_it
+2,2023Q1,0.07143869596031184,AI in Customer Experience,software_it
+2,2023Q2,0.08244913851844642,AI in Customer Experience,software_it
+2,2023Q3,0.09620174346201743,AI in Customer Experience,software_it
+2,2023Q4,0.0793518903199003,AI in Customer Experience,software_it
+2,2024Q1,0.07856292609024998,AI in Customer Experience,software_it
+2,2024Q2,0.09017837480731117,AI in Customer Experience,software_it
+2,2024Q3,0.09074535882515933,AI in Customer Experience,software_it
+2,2024Q4,0.09902113775003546,AI in Customer Experience,software_it
+2,2025Q1,0.09699977441912926,AI in Customer Experience,software_it
+2,2025Q2,0.09918385853547948,AI in Customer Experience,software_it
+2,2025Q3,0.08007496379589403,AI in Customer Experience,software_it
+2,2025Q4,0.07798919426826403,AI in Customer Experience,software_it
+3,2022Q1,0.06049250535331906,India AI Global Partnerships,government_defense
+3,2022Q2,0.06827682303762192,India AI Global Partnerships,government_defense
+3,2022Q3,0.06613879832324174,India AI Global Partnerships,government_defense
+3,2022Q4,0.055010660980810235,India AI Global Partnerships,government_defense
+3,2023Q1,0.027923458540042523,India AI Global Partnerships,government_defense
+3,2023Q2,0.042928063856711766,India AI Global Partnerships,government_defense
+3,2023Q3,0.05842673308426733,India AI Global Partnerships,government_defense
+3,2023Q4,0.05889073535521396,India AI Global Partnerships,government_defense
+3,2024Q1,0.07607401796342388,India AI Global Partnerships,government_defense
+3,2024Q2,0.06694560669456066,India AI Global Partnerships,government_defense
+3,2024Q3,0.08257134940426711,India AI Global Partnerships,government_defense
+3,2024Q4,0.09235352532274081,India AI Global Partnerships,government_defense
+3,2025Q1,0.09124746221520415,India AI Global Partnerships,government_defense
+3,2025Q2,0.08762185445477216,India AI Global Partnerships,government_defense
+3,2025Q3,0.08126756963966267,India AI Global Partnerships,government_defense
+3,2025Q4,0.09059588129355571,India AI Global Partnerships,government_defense
+4,2022Q1,0.008565310492505354,Smartphone AI Features,software_it
+4,2022Q2,0.014862981885740827,Smartphone AI Features,software_it
+4,2022Q3,0.009781089892873778,Smartphone AI Features,software_it
+4,2022Q4,0.009381663113006396,Smartphone AI Features,software_it
+4,2023Q1,0.021119773210489017,Smartphone AI Features,software_it
+4,2023Q2,0.017326973620169377,Smartphone AI Features,software_it
+4,2023Q3,0.019613947696139476,Smartphone AI Features,software_it
+4,2023Q4,0.033444121312837555,Smartphone AI Features,software_it
+4,2024Q1,0.06081592901201169,Smartphone AI Features,software_it
+4,2024Q2,0.08434265580268663,Smartphone AI Features,software_it
+4,2024Q3,0.05403158769742311,Smartphone AI Features,software_it
+4,2024Q4,0.04780819974464463,Smartphone AI Features,software_it
+4,2025Q1,0.047484773291224906,Smartphone AI Features,software_it
+4,2025Q2,0.048741781908864204,Smartphone AI Features,software_it
+4,2025Q3,0.03322259136212625,Smartphone AI Features,software_it
+4,2025Q4,0.021611463471928587,Smartphone AI Features,software_it
+5,2022Q1,0.06638115631691649,AI in Cybersecurity,software_it
+5,2022Q2,0.0548072457036693,AI in Cybersecurity,software_it
+5,2022Q3,0.047973917093619006,AI in Cybersecurity,software_it
+5,2022Q4,0.03582089552238806,AI in Cybersecurity,software_it
+5,2023Q1,0.026080793763288448,AI in Cybersecurity,software_it
+5,2023Q2,0.033972549401343324,AI in Cybersecurity,software_it
+5,2023Q3,0.05116230801162308,AI in Cybersecurity,software_it
+5,2023Q4,0.043415039468217696,AI in Cybersecurity,software_it
+5,2024Q1,0.04685640082242182,AI in Cybersecurity,software_it
+5,2024Q2,0.04690596784849152,AI in Cybersecurity,software_it
+5,2024Q3,0.04793571626489332,AI in Cybersecurity,software_it
+5,2024Q4,0.05376649170095049,AI in Cybersecurity,software_it
+5,2025Q1,0.04669524024362734,AI in Cybersecurity,software_it
+5,2025Q2,0.06393108138744048,AI in Cybersecurity,software_it
+5,2025Q3,0.05443393815486839,AI in Cybersecurity,software_it
+5,2025Q4,0.05473338031477566,AI in Cybersecurity,software_it
+6,2022Q1,0.004282655246252677,OpenAI GPT-4o Chatbot,software_it
+6,2022Q2,0.003251277287505806,OpenAI GPT-4o Chatbot,software_it
+6,2022Q3,0.006054960409874243,OpenAI GPT-4o Chatbot,software_it
+6,2022Q4,0.06098081023454158,OpenAI GPT-4o Chatbot,software_it
+6,2023Q1,0.2008504606661942,OpenAI GPT-4o Chatbot,software_it
+6,2023Q2,0.103085758785165,OpenAI GPT-4o Chatbot,software_it
+6,2023Q3,0.07254047322540473,OpenAI GPT-4o Chatbot,software_it
+6,2023Q4,0.05317823016202742,OpenAI GPT-4o Chatbot,software_it
+6,2024Q1,0.03949788983876204,OpenAI GPT-4o Chatbot,software_it
+6,2024Q2,0.05846729795199295,OpenAI GPT-4o Chatbot,software_it
+6,2024Q3,0.0457190357439734,OpenAI GPT-4o Chatbot,software_it
+6,2024Q4,0.04624769470846929,OpenAI GPT-4o Chatbot,software_it
+6,2025Q1,0.043311527182494924,OpenAI GPT-4o Chatbot,software_it
+6,2025Q2,0.04738154613466334,OpenAI GPT-4o Chatbot,software_it
+6,2025Q3,0.045574580458301386,OpenAI GPT-4o Chatbot,software_it
+6,2025Q4,0.030694542322449298,OpenAI GPT-4o Chatbot,software_it
+7,2022Q1,0.0032119914346895075,OpenAI and SoftBank investment,software_it
+7,2022Q2,0.002786809103576405,OpenAI and SoftBank investment,software_it
+7,2022Q3,0.004657661853749418,OpenAI and SoftBank investment,software_it
+7,2022Q4,0.00810234541577825,OpenAI and SoftBank investment,software_it
+7,2023Q1,0.0442239546420978,OpenAI and SoftBank investment,software_it
+7,2023Q2,0.031441643142217465,OpenAI and SoftBank investment,software_it
+7,2023Q3,0.0203403902034039,OpenAI and SoftBank investment,software_it
+7,2023Q4,0.10054009140008309,OpenAI and SoftBank investment,software_it
+7,2024Q1,0.05107672329834433,OpenAI and SoftBank investment,software_it
+7,2024Q2,0.049548557586434706,OpenAI and SoftBank investment,software_it
+7,2024Q3,0.044610695483513436,OpenAI and SoftBank investment,software_it
+7,2024Q4,0.053199035324159455,OpenAI and SoftBank investment,software_it
+7,2025Q1,0.06981727949469885,OpenAI and SoftBank investment,software_it
+7,2025Q2,0.04738154613466334,OpenAI and SoftBank investment,software_it
+7,2025Q3,0.05196354033563336,OpenAI and SoftBank investment,software_it
+7,2025Q4,0.04204839088560019,OpenAI and SoftBank investment,software_it
+8,2022Q1,0.055674518201284794,AI in Lending and Insurance,finance_insurance
+8,2022Q2,0.041337668369716675,AI in Lending and Insurance,finance_insurance
+8,2022Q3,0.04890544946436889,AI in Lending and Insurance,finance_insurance
+8,2022Q4,0.0396588486140725,AI in Lending and Insurance,finance_insurance
+8,2023Q1,0.02282069454287739,AI in Lending and Insurance,finance_insurance
+8,2023Q2,0.02930010707680327,AI in Lending and Insurance,finance_insurance
+8,2023Q3,0.03372768783727688,AI in Lending and Insurance,finance_insurance
+8,2023Q4,0.03126298296634815,AI in Lending and Insurance,finance_insurance
+8,2024Q1,0.030407964506005844,AI in Lending and Insurance,finance_insurance
+8,2024Q2,0.03083021360933715,AI in Lending and Insurance,finance_insurance
+8,2024Q3,0.034774175671931286,AI in Lending and Insurance,finance_insurance
+8,2024Q4,0.0407149950347567,AI in Lending and Insurance,finance_insurance
+8,2025Q1,0.034739454094292806,AI in Lending and Insurance,finance_insurance
+8,2025Q2,0.035252777148039,AI in Lending and Insurance,finance_insurance
+8,2025Q3,0.035096686259476956,AI in Lending and Insurance,finance_insurance
+8,2025Q4,0.038289875499177825,AI in Lending and Insurance,finance_insurance
+9,2022Q1,0.04068522483940043,AI Crypto Tokenomics,finance_insurance
+9,2022Q2,0.020436600092893636,AI Crypto Tokenomics,finance_insurance
+9,2022Q3,0.025151374010246856,AI Crypto Tokenomics,finance_insurance
+9,2022Q4,0.01577825159914712,AI Crypto Tokenomics,finance_insurance
+9,2023Q1,0.012898653437278525,AI Crypto Tokenomics,finance_insurance
+9,2023Q2,0.01168110581135014,AI Crypto Tokenomics,finance_insurance
+9,2023Q3,0.016293067662930677,AI Crypto Tokenomics,finance_insurance
+9,2023Q4,0.013710012463647694,AI Crypto Tokenomics,finance_insurance
+9,2024Q1,0.013851314792771345,AI Crypto Tokenomics,finance_insurance
+9,2024Q2,0.011671438009249064,AI Crypto Tokenomics,finance_insurance
+9,2024Q3,0.014962593516209476,AI Crypto Tokenomics,finance_insurance
+9,2024Q4,0.029933323875727055,AI Crypto Tokenomics,finance_insurance
+9,2025Q1,0.03327317843446876,AI Crypto Tokenomics,finance_insurance
+9,2025Q2,0.06291090455678984,AI Crypto Tokenomics,finance_insurance
+9,2025Q3,0.12224209898628503,AI Crypto Tokenomics,finance_insurance
+9,2025Q4,0.04408425338657897,AI Crypto Tokenomics,finance_insurance
+10,2022Q1,0.016059957173447537,AI in Education,education
+10,2022Q2,0.03297724105898746,AI in Education,education
+10,2022Q3,0.02142524452724732,AI in Education,education
+10,2022Q4,0.022174840085287847,AI in Education,education
+10,2023Q1,0.07526576895818568,AI in Education,education
+10,2023Q2,0.03591940036990168,AI in Education,education
+10,2023Q3,0.0406807804068078,AI in Education,education
+10,2023Q4,0.02586206896551724,AI in Education,education
+10,2024Q1,0.02824369656963532,AI in Education,education
+10,2024Q2,0.027637084342655802,AI in Education,education
+10,2024Q3,0.025907453588251594,AI in Education,education
+10,2024Q4,0.025961129238189815,AI in Education,education
+10,2025Q1,0.02154297315587638,AI in Education,education
+10,2025Q2,0.028338245295851282,AI in Education,education
+10,2025Q3,0.03467075560098816,AI in Education,education
+10,2025Q4,0.020906741836974396,AI in Education,education
+11,2022Q1,0.0208779443254818,AI in Entertainment,media_entertainment
+11,2022Q2,0.026010218300046448,AI in Entertainment,media_entertainment
+11,2022Q3,0.03213786679087098,AI in Entertainment,media_entertainment
+11,2022Q4,0.03710021321961621,AI in Entertainment,media_entertainment
+11,2023Q1,0.03401842664776754,AI in Entertainment,media_entertainment
+11,2023Q2,0.039910444855446314,AI in Entertainment,media_entertainment
+11,2023Q3,0.04753009547530095,AI in Entertainment,media_entertainment
+11,2023Q4,0.03188616535105941,AI in Entertainment,media_entertainment
+11,2024Q1,0.03268044583919489,AI in Entertainment,media_entertainment
+11,2024Q2,0.03270204800704691,AI in Entertainment,media_entertainment
+11,2024Q3,0.03408146300914381,AI in Entertainment,media_entertainment
+11,2024Q4,0.028089090651156192,AI in Entertainment,media_entertainment
+11,2025Q1,0.027972027972027972,AI in Entertainment,media_entertainment
+11,2025Q2,0.02901836318295171,AI in Entertainment,media_entertainment
+11,2025Q3,0.029304029304029304,AI in Entertainment,media_entertainment
+11,2025Q4,0.029989820687495106,AI in Entertainment,media_entertainment
+12,2022Q1,0.011777301927194861,AI Copyright Infringement Lawsuits,legal_professional
+12,2022Q2,0.018114259173246633,AI Copyright Infringement Lawsuits,legal_professional
+12,2022Q3,0.022356776897997206,AI Copyright Infringement Lawsuits,legal_professional
+12,2022Q4,0.018763326226012792,AI Copyright Infringement Lawsuits,legal_professional
+12,2023Q1,0.03458540042523033,AI Copyright Infringement Lawsuits,legal_professional
+12,2023Q2,0.03319380901391999,AI Copyright Infringement Lawsuits,legal_professional
+12,2023Q3,0.04379410543794105,AI Copyright Infringement Lawsuits,legal_professional
+12,2023Q4,0.03676776069796427,AI Copyright Infringement Lawsuits,legal_professional
+12,2024Q1,0.03690076831511741,AI Copyright Infringement Lawsuits,legal_professional
+12,2024Q2,0.03171107685531821,AI Copyright Infringement Lawsuits,legal_professional
+12,2024Q3,0.026184538653366583,AI Copyright Infringement Lawsuits,legal_professional
+12,2024Q4,0.027947226556958433,AI Copyright Infringement Lawsuits,legal_professional
+12,2025Q1,0.028987141890367697,AI Copyright Infringement Lawsuits,legal_professional
+12,2025Q2,0.03638630695987304,AI Copyright Infringement Lawsuits,legal_professional
+12,2025Q3,0.023511372348581652,AI Copyright Infringement Lawsuits,legal_professional
+12,2025Q4,0.02544828126223475,AI Copyright Infringement Lawsuits,legal_professional
+13,2022Q1,0.0487152034261242,Tech Stocks and AI Investment,software_it
+13,2022Q2,0.04923362749651649,Tech Stocks and AI Investment,software_it
+13,2022Q3,0.0423847228691197,Tech Stocks and AI Investment,software_it
+13,2022Q4,0.04989339019189765,Tech Stocks and AI Investment,software_it
+13,2023Q1,0.05825655563430191,Tech Stocks and AI Investment,software_it
+13,2023Q2,0.06736104351211915,Tech Stocks and AI Investment,software_it
+13,2023Q3,0.0660024906600249,Tech Stocks and AI Investment,software_it
+13,2023Q4,0.051620274200249276,Tech Stocks and AI Investment,software_it
+13,2024Q1,0.08137647440753165,Tech Stocks and AI Investment,software_it
+13,2024Q2,0.07201057035895177,Tech Stocks and AI Investment,software_it
+13,2024Q3,0.07952341368800221,Tech Stocks and AI Investment,software_it
+13,2024Q4,0.06085969641083842,Tech Stocks and AI Investment,software_it
+13,2025Q1,0.06733588991653508,Tech Stocks and AI Investment,software_it
+13,2025Q2,0.0665381999546588,Tech Stocks and AI Investment,software_it
+13,2025Q3,0.0736008177868643,Tech Stocks and AI Investment,software_it
+13,2025Q4,0.0713334899381411,Tech Stocks and AI Investment,software_it
+14,2022Q1,0.009635974304068522,Chinese AI firms,software_it
+14,2022Q2,0.010682768230376219,Chinese AI firms,software_it
+14,2022Q3,0.019096413600372612,Chinese AI firms,software_it
+14,2022Q4,0.012366737739872069,Chinese AI firms,software_it
+14,2023Q1,0.03656980864635011,Chinese AI firms,software_it
+14,2023Q2,0.031052272948505794,Chinese AI firms,software_it
+14,2023Q3,0.025529265255292654,Chinese AI firms,software_it
+14,2023Q4,0.019318653926049024,Chinese AI firms,software_it
+14,2024Q1,0.017855210475056813,Chinese AI firms,software_it
+14,2024Q2,0.017837480731116493,Chinese AI firms,software_it
+14,2024Q3,0.01371571072319202,Chinese AI firms,software_it
+14,2024Q4,0.014186409419775855,Chinese AI firms,software_it
+14,2025Q1,0.10500789533047597,Chinese AI firms,software_it
+14,2025Q2,0.02765812740875085,Chinese AI firms,software_it
+14,2025Q3,0.025300281114234602,Chinese AI firms,software_it
+14,2025Q4,0.016521807219481637,Chinese AI firms,software_it
+15,2022Q1,0.010171306209850108,AI election misinformation,government_defense
+15,2022Q2,0.02693915466790525,AI election misinformation,government_defense
+15,2022Q3,0.02608290638099674,AI election misinformation,government_defense
+15,2022Q4,0.03113006396588486,AI election misinformation,government_defense
+15,2023Q1,0.029907866761162295,AI election misinformation,government_defense
+15,2023Q2,0.03922904701645089,AI election misinformation,government_defense
+15,2023Q3,0.03372768783727688,AI election misinformation,government_defense
+15,2023Q4,0.040402991275446616,AI election misinformation,government_defense
+15,2024Q1,0.06730873282112325,AI election misinformation,government_defense
+15,2024Q2,0.04888791015194891,AI election misinformation,government_defense
+15,2024Q3,0.05126073704627321,AI election misinformation,government_defense
+15,2024Q4,0.031351964817704636,AI election misinformation,government_defense
+15,2025Q1,0.026392961876832845,AI election misinformation,government_defense
+15,2025Q2,0.029698481070052143,AI election misinformation,government_defense
+15,2025Q3,0.03356333588891729,AI election misinformation,government_defense
+15,2025Q4,0.029911518283611306,AI election misinformation,government_defense
+16,2022Q1,0.013383297644539615,Semiconductor & Chip Stocks,semiconductors_hardware
+16,2022Q2,0.009289363678588018,Semiconductor & Chip Stocks,semiconductors_hardware
+16,2022Q3,0.005123428039124359,Semiconductor & Chip Stocks,semiconductors_hardware
+16,2022Q4,0.006396588486140725,Semiconductor & Chip Stocks,semiconductors_hardware
+16,2023Q1,0.014174344436569808,Semiconductor & Chip Stocks,semiconductors_hardware
+16,2023Q2,0.024627664752263214,Semiconductor & Chip Stocks,semiconductors_hardware
+16,2023Q3,0.03227480282274803,Semiconductor & Chip Stocks,semiconductors_hardware
+16,2023Q4,0.01963024511840465,Semiconductor & Chip Stocks,semiconductors_hardware
+16,2024Q1,0.04923709555242939,Semiconductor & Chip Stocks,semiconductors_hardware
+16,2024Q2,0.03633560889671878,Semiconductor & Chip Stocks,semiconductors_hardware
+16,2024Q3,0.04253255749515101,Semiconductor & Chip Stocks,semiconductors_hardware
+16,2024Q4,0.039438218186976876,Semiconductor & Chip Stocks,semiconductors_hardware
+16,2025Q1,0.03801037672005414,Semiconductor & Chip Stocks,semiconductors_hardware
+16,2025Q2,0.03026524597596917,Semiconductor & Chip Stocks,semiconductors_hardware
+16,2025Q3,0.032796660703637445,Semiconductor & Chip Stocks,semiconductors_hardware
+16,2025Q4,0.039229504345783414,Semiconductor & Chip Stocks,semiconductors_hardware
+17,2022Q1,0.03854389721627409,Automakers AI Integration,transportation_automotive
+17,2022Q2,0.030190431955411056,Automakers AI Integration,transportation_automotive
+17,2022Q3,0.040055891942244994,Automakers AI Integration,transportation_automotive
+17,2022Q4,0.04605543710021322,Automakers AI Integration,transportation_automotive
+17,2023Q1,0.018284904323175054,Automakers AI Integration,transportation_automotive
+17,2023Q2,0.01927382458872773,Automakers AI Integration,transportation_automotive
+17,2023Q3,0.018161062681610628,Automakers AI Integration,transportation_automotive
+17,2023Q4,0.01651433319484836,Automakers AI Integration,transportation_automotive
+17,2024Q1,0.023265880315983117,Automakers AI Integration,transportation_automotive
+17,2024Q2,0.015635322616163842,Automakers AI Integration,transportation_automotive
+17,2024Q3,0.018149071765031864,Automakers AI Integration,transportation_automotive
+17,2024Q4,0.016172506738544475,Automakers AI Integration,transportation_automotive
+17,2025Q1,0.015565080081209114,Automakers AI Integration,transportation_automotive
+17,2025Q2,0.014509181591475856,Automakers AI Integration,transportation_automotive
+17,2025Q3,0.011585313910895307,Automakers AI Integration,transportation_automotive
+17,2025Q4,0.011510453370918487,Automakers AI Integration,transportation_automotive
+18,2022Q1,0.0053533190578158455,AI and Music Industry,media_entertainment
+18,2022Q2,0.011611704598235021,AI and Music Industry,media_entertainment
+18,2022Q3,0.017699115044247787,AI and Music Industry,media_entertainment
+18,2022Q4,0.01791044776119403,AI and Music Industry,media_entertainment
+18,2023Q1,0.018710134656272148,AI and Music Industry,media_entertainment
+18,2023Q2,0.02939744962523119,AI and Music Industry,media_entertainment
+18,2023Q3,0.022000830220008302,AI and Music Industry,media_entertainment
+18,2023Q4,0.02160365600332364,AI and Music Industry,media_entertainment
+18,2024Q1,0.01147062006276377,AI and Music Industry,media_entertainment
+18,2024Q2,0.01816780444835939,AI and Music Industry,media_entertainment
+18,2024Q3,0.013300083125519535,AI and Music Industry,media_entertainment
+18,2024Q4,0.016172506738544475,AI and Music Industry,media_entertainment
+18,2025Q1,0.013647642679900745,AI and Music Industry,media_entertainment
+18,2025Q2,0.010088415325323057,AI and Music Industry,media_entertainment
+18,2025Q3,0.013459408808246018,AI and Music Industry,media_entertainment
+18,2025Q4,0.012528384621407877,AI and Music Industry,media_entertainment
+19,2022Q1,0.044967880085653104,AI PC Hardware,semiconductors_hardware
+19,2022Q2,0.04737575476079889,AI PC Hardware,semiconductors_hardware
+19,2022Q3,0.04937121564974383,AI PC Hardware,semiconductors_hardware
+19,2022Q4,0.041791044776119404,AI PC Hardware,semiconductors_hardware
+19,2023Q1,0.016017009213323885,AI PC Hardware,semiconductors_hardware
+19,2023Q2,0.016548233232746033,AI PC Hardware,semiconductors_hardware
+19,2023Q3,0.023142382731423827,AI PC Hardware,semiconductors_hardware
+19,2023Q4,0.029393435812214375,AI PC Hardware,semiconductors_hardware
+19,2024Q1,0.03213937885510226,AI PC Hardware,semiconductors_hardware
+19,2024Q2,0.04173089627835279,AI PC Hardware,semiconductors_hardware
+19,2024Q3,0.038376281518426154,AI PC Hardware,semiconductors_hardware
+19,2024Q4,0.0407149950347567,AI PC Hardware,semiconductors_hardware
+19,2025Q1,0.032709226257613355,AI PC Hardware,semiconductors_hardware
+19,2025Q2,0.03479936522330537,AI PC Hardware,semiconductors_hardware
+19,2025Q3,0.029304029304029304,AI PC Hardware,semiconductors_hardware
+19,2025Q4,0.02756244616709733,AI PC Hardware,semiconductors_hardware
+20,2022Q1,0.009100642398286937,Google AI Overviews Ads,media_entertainment
+20,2022Q2,0.0074314909428704135,Google AI Overviews Ads,media_entertainment
+20,2022Q3,0.010246856078248719,Google AI Overviews Ads,media_entertainment
+20,2022Q4,0.00810234541577825,Google AI Overviews Ads,media_entertainment
+20,2023Q1,0.03132530120481928,Google AI Overviews Ads,media_entertainment
+20,2023Q2,0.02394626691326779,Google AI Overviews Ads,media_entertainment
+20,2023Q3,0.0186799501867995,Google AI Overviews Ads,media_entertainment
+20,2023Q4,0.013917739925218114,Google AI Overviews Ads,media_entertainment
+20,2024Q1,0.01482523536413808,Google AI Overviews Ads,media_entertainment
+20,2024Q2,0.029949350363356088,Google AI Overviews Ads,media_entertainment
+20,2024Q3,0.018703241895261846,Google AI Overviews Ads,media_entertainment
+20,2024Q4,0.02354943963682792,Google AI Overviews Ads,media_entertainment
+20,2025Q1,0.02131739228513422,Google AI Overviews Ads,media_entertainment
+20,2025Q2,0.03298571752437089,Google AI Overviews Ads,media_entertainment
+20,2025Q3,0.0337337081523128,Google AI Overviews Ads,media_entertainment
+20,2025Q4,0.029128494244773314,Google AI Overviews Ads,media_entertainment
+21,2022Q1,0.025160599571734475,Meta AI Strategy,software_it
+21,2022Q2,0.009753831862517418,Meta AI Strategy,software_it
+21,2022Q3,0.016301816488122962,Meta AI Strategy,software_it
+21,2022Q4,0.011940298507462687,Meta AI Strategy,software_it
+21,2023Q1,0.01105598866052445,Meta AI Strategy,software_it
+21,2023Q2,0.013238586586196827,Meta AI Strategy,software_it
+21,2023Q3,0.0161892901618929,Meta AI Strategy,software_it
+21,2023Q4,0.011528874117158288,Meta AI Strategy,software_it
+21,2024Q1,0.008657071745482092,Meta AI Strategy,software_it
+21,2024Q2,0.02048007046905968,Meta AI Strategy,software_it
+21,2024Q3,0.019395954558049322,Meta AI Strategy,software_it
+21,2024Q4,0.010923535253227408,Meta AI Strategy,software_it
+21,2025Q1,0.013534852244529664,Meta AI Strategy,software_it
+21,2025Q2,0.02539106778508275,Meta AI Strategy,software_it
+21,2025Q3,0.02419286140216373,Meta AI Strategy,software_it
+21,2025Q4,0.01542557356510845,Meta AI Strategy,software_it
+22,2022Q1,0.011777301927194861,AI Writing Assistants,software_it
+22,2022Q2,0.01579191825359963,AI Writing Assistants,software_it
+22,2022Q3,0.020027945971122497,AI Writing Assistants,software_it
+22,2022Q4,0.03070362473347548,AI Writing Assistants,software_it
+22,2023Q1,0.05995747696669029,AI Writing Assistants,software_it
+22,2023Q2,0.03572471527304585,AI Writing Assistants,software_it
+22,2023Q3,0.034869240348692404,AI Writing Assistants,software_it
+22,2023Q4,0.02690070627336934,AI Writing Assistants,software_it
+22,2024Q1,0.027269775998268585,AI Writing Assistants,software_it
+22,2024Q2,0.024003523452983924,AI Writing Assistants,software_it
+22,2024Q3,0.029232474369631476,AI Writing Assistants,software_it
+22,2024Q4,0.03007518796992481,AI Writing Assistants,software_it
+22,2025Q1,0.03135574103316039,AI Writing Assistants,software_it
+22,2025Q2,0.027318068465200636,AI Writing Assistants,software_it
+22,2025Q3,0.01984836868557799,AI Writing Assistants,software_it
+22,2025Q4,0.01636520241171404,AI Writing Assistants,software_it
+23,2022Q1,0.033190578158458245,AI in Aerospace Manufacturing,manufacturing_industrial
+23,2022Q2,0.04458894565722248,AI in Aerospace Manufacturing,manufacturing_industrial
+23,2022Q3,0.04285048905449464,AI in Aerospace Manufacturing,manufacturing_industrial
+23,2022Q4,0.02814498933901919,AI in Aerospace Manufacturing,manufacturing_industrial
+23,2023Q1,0.012331679659815733,AI in Aerospace Manufacturing,manufacturing_industrial
+23,2023Q2,0.016353548135890197,AI in Aerospace Manufacturing,manufacturing_industrial
+23,2023Q3,0.020755500207555,AI in Aerospace Manufacturing,manufacturing_industrial
+23,2023Q4,0.019941836310760283,AI in Aerospace Manufacturing,manufacturing_industrial
+23,2024Q1,0.019694838220971757,AI in Aerospace Manufacturing,manufacturing_industrial
+23,2024Q2,0.02213168905527417,AI in Aerospace Manufacturing,manufacturing_industrial
+23,2024Q3,0.022998060404544194,AI in Aerospace Manufacturing,manufacturing_industrial
+23,2024Q4,0.036742800397219465,AI in Aerospace Manufacturing,manufacturing_industrial
+23,2025Q1,0.024362734040153395,AI in Aerospace Manufacturing,manufacturing_industrial
+23,2025Q2,0.02811153933348447,AI in Aerospace Manufacturing,manufacturing_industrial
+23,2025Q3,0.02393730300707045,AI in Aerospace Manufacturing,manufacturing_industrial
+23,2025Q4,0.026701119724375538,AI in Aerospace Manufacturing,manufacturing_industrial
+24,2022Q1,0.005888650963597431,AI Chatbot Safety for Teens,none
+24,2022Q2,0.030654900139340455,AI Chatbot Safety for Teens,none
+24,2022Q3,0.02328830926874709,AI Chatbot Safety for Teens,none
+24,2022Q4,0.02515991471215352,AI Chatbot Safety for Teens,none
+24,2023Q1,0.04195605953224663,AI Chatbot Safety for Teens,none
+24,2023Q2,0.030954930400077876,AI Chatbot Safety for Teens,none
+24,2023Q3,0.028123702781237027,AI Chatbot Safety for Teens,none
+24,2023Q4,0.0211882010801828,AI Chatbot Safety for Teens,none
+24,2024Q1,0.019153771236879124,AI Chatbot Safety for Teens,none
+24,2024Q2,0.01728694120237833,AI Chatbot Safety for Teens,none
+24,2024Q3,0.018149071765031864,AI Chatbot Safety for Teens,none
+24,2024Q4,0.018158604057313094,AI Chatbot Safety for Teens,none
+24,2025Q1,0.015565080081209114,AI Chatbot Safety for Teens,none
+24,2025Q2,0.026524597596916798,AI Chatbot Safety for Teens,none
+24,2025Q3,0.03986710963455149,AI Chatbot Safety for Teens,none
+24,2025Q4,0.02427374520397776,AI Chatbot Safety for Teens,none
+25,2022Q1,0.016595289079229122,NFL Betting and Analysis,media_entertainment
+25,2022Q2,0.018578727357176035,NFL Betting and Analysis,media_entertainment
+25,2022Q3,0.015836050302748022,NFL Betting and Analysis,media_entertainment
+25,2022Q4,0.026439232409381664,NFL Betting and Analysis,media_entertainment
+25,2023Q1,0.012189936215450035,NFL Betting and Analysis,media_entertainment
+25,2023Q2,0.01440669716733184,NFL Betting and Analysis,media_entertainment
+25,2023Q3,0.0136986301369863,NFL Betting and Analysis,media_entertainment
+25,2023Q4,0.012671375155795596,NFL Betting and Analysis,media_entertainment
+25,2024Q1,0.00811600476138946,NFL Betting and Analysis,media_entertainment
+25,2024Q2,0.013323056595463555,NFL Betting and Analysis,media_entertainment
+25,2024Q3,0.018980326960376836,NFL Betting and Analysis,media_entertainment
+25,2024Q4,0.010072350688040858,NFL Betting and Analysis,media_entertainment
+25,2025Q1,0.011504624407850215,NFL Betting and Analysis,media_entertainment
+25,2025Q2,0.012128768986624348,NFL Betting and Analysis,media_entertainment
+25,2025Q3,0.009370474486753556,NFL Betting and Analysis,media_entertainment
+25,2025Q4,0.008065147600031321,NFL Betting and Analysis,media_entertainment
+26,2022Q1,0.04925053533190578,AI ETF Market Activity,finance_insurance
+26,2022Q2,0.04366000928936368,AI ETF Market Activity,finance_insurance
+26,2022Q3,0.035398230088495575,AI ETF Market Activity,finance_insurance
+26,2022Q4,0.026439232409381664,AI ETF Market Activity,finance_insurance
+26,2023Q1,0.01842664776754075,AI ETF Market Activity,finance_insurance
+26,2023Q2,0.01985787987929524,AI ETF Market Activity,finance_insurance
+26,2023Q3,0.015047737650477377,AI ETF Market Activity,finance_insurance
+26,2023Q4,0.008724553385957623,AI ETF Market Activity,finance_insurance
+26,2024Q1,0.017314143490964183,AI ETF Market Activity,finance_insurance
+26,2024Q2,0.019378991411583352,AI ETF Market Activity,finance_insurance
+26,2024Q3,0.02396785813244666,AI ETF Market Activity,finance_insurance
+26,2024Q4,0.019719109093488438,AI ETF Market Activity,finance_insurance
+26,2025Q1,0.020640649672907737,AI ETF Market Activity,finance_insurance
+26,2025Q2,0.025164361822715937,AI ETF Market Activity,finance_insurance
+26,2025Q3,0.019933554817275746,AI ETF Market Activity,finance_insurance
+26,2025Q4,0.01949729856706601,AI ETF Market Activity,finance_insurance
+27,2022Q1,0.0026766595289079227,Microsoft Windows 11 AI Features,software_it
+27,2022Q2,0.005109150023223409,Microsoft Windows 11 AI Features,software_it
+27,2022Q3,0.0018630647414997672,Microsoft Windows 11 AI Features,software_it
+27,2022Q4,0.0029850746268656717,Microsoft Windows 11 AI Features,software_it
+27,2023Q1,0.016158752657689582,Microsoft Windows 11 AI Features,software_it
+27,2023Q2,0.007884746422661345,Microsoft Windows 11 AI Features,software_it
+27,2023Q3,0.012557077625570776,Microsoft Windows 11 AI Features,software_it
+27,2023Q4,0.012775238886580807,Microsoft Windows 11 AI Features,software_it
+27,2024Q1,0.020452331998701438,Microsoft Windows 11 AI Features,software_it
+27,2024Q2,0.021471041620788372,Microsoft Windows 11 AI Features,software_it
+27,2024Q3,0.011914657799944583,Microsoft Windows 11 AI Features,software_it
+27,2024Q4,0.017307419492126542,Microsoft Windows 11 AI Features,software_it
+27,2025Q1,0.01263252876156102,Microsoft Windows 11 AI Features,software_it
+27,2025Q2,0.01598277034686012,Microsoft Windows 11 AI Features,software_it
+27,2025Q3,0.012437175227872903,Microsoft Windows 11 AI Features,software_it
+27,2025Q4,0.008848171638869314,Microsoft Windows 11 AI Features,software_it
+28,2022Q1,0.011241970021413276,AI Coding Assistants,software_it
+28,2022Q2,0.011611704598235021,AI Coding Assistants,software_it
+28,2022Q3,0.014438751746623195,AI Coding Assistants,software_it
+28,2022Q4,0.009381663113006396,AI Coding Assistants,software_it
+28,2023Q1,0.010914245216158752,AI Coding Assistants,software_it
+28,2023Q2,0.015185437554755184,AI Coding Assistants,software_it
+28,2023Q3,0.015877957658779578,AI Coding Assistants,software_it
+28,2023Q4,0.01578728707935189,AI Coding Assistants,software_it
+28,2024Q1,0.01569094253868629,AI Coding Assistants,software_it
+28,2024Q2,0.01640607795639727,AI Coding Assistants,software_it
+28,2024Q3,0.020919922416181767,AI Coding Assistants,software_it
+28,2024Q4,0.020144701376081715,AI Coding Assistants,software_it
+28,2025Q1,0.018159260094743966,AI Coding Assistants,software_it
+28,2025Q2,0.03230559963727046,AI Coding Assistants,software_it
+28,2025Q3,0.03143368259647329,AI Coding Assistants,software_it
+28,2025Q4,0.023412418761255972,AI Coding Assistants,software_it
+29,2022Q1,0.0010706638115631692,Chinese AI chipmakers,semiconductors_hardware
+29,2022Q2,0.003251277287505806,Chinese AI chipmakers,semiconductors_hardware
+29,2022Q3,0.018630647414997672,Chinese AI chipmakers,semiconductors_hardware
+29,2022Q4,0.008528784648187633,Chinese AI chipmakers,semiconductors_hardware
+29,2023Q1,0.00595322466335932,Chinese AI chipmakers,semiconductors_hardware
+29,2023Q2,0.008468801713228852,Chinese AI chipmakers,semiconductors_hardware
+29,2023Q3,0.008302200083022002,Chinese AI chipmakers,semiconductors_hardware
+29,2023Q4,0.009867054424594932,Chinese AI chipmakers,semiconductors_hardware
+29,2024Q1,0.009630992316848826,Chinese AI chipmakers,semiconductors_hardware
+29,2024Q2,0.010570358951772737,Chinese AI chipmakers,semiconductors_hardware
+29,2024Q3,0.009282349681352175,Chinese AI chipmakers,semiconductors_hardware
+29,2024Q4,0.011490991630018443,Chinese AI chipmakers,semiconductors_hardware
+29,2025Q1,0.020527859237536656,Chinese AI chipmakers,semiconductors_hardware
+29,2025Q2,0.02255724325549762,Chinese AI chipmakers,semiconductors_hardware
+29,2025Q3,0.022574324899906295,Chinese AI chipmakers,semiconductors_hardware
+29,2025Q4,0.014407642314619058,Chinese AI chipmakers,semiconductors_hardware
+30,2022Q1,0.06316916488222699,Snowflake Data Cloud Platform,software_it
+30,2022Q2,0.07431490942870414,Snowflake Data Cloud Platform,software_it
+30,2022Q3,0.05589194224499301,Snowflake Data Cloud Platform,software_it
+30,2022Q4,0.042643923240938165,Snowflake Data Cloud Platform,software_it
+30,2023Q1,0.02593905031892275,Snowflake Data Cloud Platform,software_it
+30,2023Q2,0.046140367954833054,Snowflake Data Cloud Platform,software_it
+30,2023Q3,0.05375674553756746,Snowflake Data Cloud Platform,software_it
+30,2023Q4,0.042895720814291646,Snowflake Data Cloud Platform,software_it
+30,2024Q1,0.041337517584676985,Snowflake Data Cloud Platform,software_it
+30,2024Q2,0.05461352125082581,Snowflake Data Cloud Platform,software_it
+30,2024Q3,0.05472430036021059,Snowflake Data Cloud Platform,software_it
+30,2024Q4,0.06582493970775996,Snowflake Data Cloud Platform,software_it
+30,2025Q1,0.04771035416196707,Snowflake Data Cloud Platform,software_it
+30,2025Q2,0.054749489911584674,Snowflake Data Cloud Platform,software_it
+30,2025Q3,0.0465968140386745,Snowflake Data Cloud Platform,software_it
+30,2025Q4,0.04768616396523373,Snowflake Data Cloud Platform,software_it
+31,2022Q1,0.033190578158458245,Crypto Price Conversion Pages,finance_insurance
+31,2022Q2,0.019972131908964234,Crypto Price Conversion Pages,finance_insurance
+31,2022Q3,0.017699115044247787,Crypto Price Conversion Pages,finance_insurance
+31,2022Q4,0.003411513859275053,Crypto Price Conversion Pages,finance_insurance
+31,2023Q2,0.0002920276452837535,Crypto Price Conversion Pages,finance_insurance
+31,2023Q4,0.0006231823847112588,Crypto Price Conversion Pages,finance_insurance
+31,2024Q1,0.005194243047289254,Crypto Price Conversion Pages,finance_insurance
+31,2024Q2,0.014093811935696983,Crypto Price Conversion Pages,finance_insurance
+31,2024Q3,0.012191742865059573,Crypto Price Conversion Pages,finance_insurance
+31,2024Q4,0.006383884238899134,Crypto Price Conversion Pages,finance_insurance
+31,2025Q1,0.001691856530566208,Crypto Price Conversion Pages,finance_insurance
+31,2025Q2,0.001927000680117887,Crypto Price Conversion Pages,finance_insurance
+31,2025Q3,0.002385211687537269,Crypto Price Conversion Pages,finance_insurance
+31,2025Q4,0.1021063346644742,Crypto Price Conversion Pages,finance_insurance
+32,2022Q1,0.013383297644539615,AI in Energy Sector,energy_utilities
+32,2022Q2,0.014862981885740827,AI in Energy Sector,energy_utilities
+32,2022Q3,0.012575687005123428,AI in Energy Sector,energy_utilities
+32,2022Q4,0.01023454157782516,AI in Energy Sector,energy_utilities
+32,2023Q1,0.007228915662650603,AI in Energy Sector,energy_utilities
+32,2023Q2,0.007106006035238002,AI in Energy Sector,energy_utilities
+32,2023Q3,0.011311747613117476,AI in Energy Sector,energy_utilities
+32,2023Q4,0.009347735770668882,AI in Energy Sector,energy_utilities
+32,2024Q1,0.010388486094578509,AI in Energy Sector,energy_utilities
+32,2024Q2,0.014644351464435146,AI in Energy Sector,energy_utilities
+32,2024Q3,0.02175117761152674,AI in Energy Sector,energy_utilities
+32,2024Q4,0.03035891615832033,AI in Energy Sector,energy_utilities
+32,2025Q1,0.020189487931423417,AI in Energy Sector,energy_utilities
+32,2025Q2,0.02369077306733167,AI in Energy Sector,energy_utilities
+32,2025Q3,0.020529857739160065,AI in Energy Sector,energy_utilities
+32,2025Q4,0.022707697126301777,AI in Energy Sector,energy_utilities
+33,2022Q1,0.009100642398286937,AI Image Generation Tools,software_it
+33,2022Q2,0.02229447282861124,AI Image Generation Tools,software_it
+33,2022Q3,0.035398230088495575,AI Image Generation Tools,software_it
+33,2022Q4,0.04818763326226013,AI Image Generation Tools,software_it
+33,2023Q1,0.020552799433026223,AI Image Generation Tools,software_it
+33,2023Q2,0.020928647912002336,AI Image Generation Tools,software_it
+33,2023Q3,0.018576172685761727,AI Image Generation Tools,software_it
+33,2023Q4,0.023265475695886995,AI Image Generation Tools,software_it
+33,2024Q1,0.018829131046423548,AI Image Generation Tools,software_it
+33,2024Q2,0.019489099317330984,AI Image Generation Tools,software_it
+33,2024Q3,0.021058464948739263,AI Image Generation Tools,software_it
+33,2024Q4,0.02142147822386154,AI Image Generation Tools,software_it
+33,2025Q1,0.0214301827205053,AI Image Generation Tools,software_it
+33,2025Q2,0.02346406710496486,AI Image Generation Tools,software_it
+33,2025Q3,0.013629781071641537,AI Image Generation Tools,software_it
+33,2025Q4,0.011745360582569885,AI Image Generation Tools,software_it
+34,2022Q1,0.0010706638115631692,Google Gemini AI Models,software_it
+34,2022Q2,0.0013934045517882026,Google Gemini AI Models,software_it
+34,2022Q4,0.00042643923240938164,Google Gemini AI Models,software_it
+34,2023Q1,0.001417434443656981,Google Gemini AI Models,software_it
+34,2023Q2,0.0034069891949771243,Google Gemini AI Models,software_it
+34,2023Q3,0.002594437525944375,Google Gemini AI Models,software_it
+34,2023Q4,0.013398421271292064,Google Gemini AI Models,software_it
+34,2024Q1,0.025863001839627746,Google Gemini AI Models,software_it
+34,2024Q2,0.017837480731116493,Google Gemini AI Models,software_it
+34,2024Q3,0.011776115267387088,Google Gemini AI Models,software_it
+34,2024Q4,0.015037593984962405,Google Gemini AI Models,software_it
+34,2025Q1,0.014437175727498308,Google Gemini AI Models,software_it
+34,2025Q2,0.019270006801178872,Google Gemini AI Models,software_it
+34,2025Q3,0.012011244569384105,Google Gemini AI Models,software_it
+34,2025Q4,0.014407642314619058,Google Gemini AI Models,software_it
+35,2022Q1,0.020342612419700215,AI in Recruitment,legal_professional
+35,2022Q2,0.024152345564328843,AI in Recruitment,legal_professional
+35,2022Q3,0.018630647414997672,AI in Recruitment,legal_professional
+35,2022Q4,0.014498933901918977,AI in Recruitment,legal_professional
+35,2023Q1,0.016158752657689582,AI in Recruitment,legal_professional
+35,2023Q2,0.020149907524578993,AI in Recruitment,legal_professional
+35,2023Q3,0.02002905770029058,AI in Recruitment,legal_professional
+35,2023Q4,0.02139592854175322,AI in Recruitment,legal_professional
+35,2024Q1,0.013310247808678715,AI in Recruitment,legal_professional
+35,2024Q2,0.017397049108125964,AI in Recruitment,legal_professional
+35,2024Q3,0.017040731504571905,AI in Recruitment,legal_professional
+35,2024Q4,0.018300468151510853,AI in Recruitment,legal_professional
+35,2025Q1,0.017933679224001804,AI in Recruitment,legal_professional
+35,2025Q2,0.02040353661301292,AI in Recruitment,legal_professional
+35,2025Q3,0.017718715393133997,AI in Recruitment,legal_professional
+35,2025Q4,0.014407642314619058,AI in Recruitment,legal_professional
+36,2022Q1,0.011241970021413276,AI in fast food service,retail_consumer
+36,2022Q2,0.013005109150023224,AI in fast food service,retail_consumer
+36,2022Q3,0.007918025151374011,AI in fast food service,retail_consumer
+36,2022Q4,0.011087420042643924,AI in fast food service,retail_consumer
+36,2023Q1,0.011481218993621546,AI in fast food service,retail_consumer
+36,2023Q2,0.013238586586196827,AI in fast food service,retail_consumer
+36,2023Q3,0.009651307596513076,AI in fast food service,retail_consumer
+36,2023Q4,0.009140008309098464,AI in fast food service,retail_consumer
+36,2024Q1,0.007683151174115356,AI in fast food service,retail_consumer
+36,2024Q2,0.008037877119577186,AI in fast food service,retail_consumer
+36,2024Q3,0.006650041562759767,AI in fast food service,retail_consumer
+36,2024Q4,0.009363030217052063,AI in fast food service,retail_consumer
+36,2025Q1,0.007669749605233476,AI in fast food service,retail_consumer
+36,2025Q2,0.0068011788710043075,AI in fast food service,retail_consumer
+36,2025Q3,0.005707470823749894,AI in fast food service,retail_consumer
+36,2025Q4,0.004698144233027954,AI in fast food service,retail_consumer
+37,2022Q1,0.03747323340471092,AI Surveillance and Policing,government_defense
+37,2022Q2,0.04598235020901068,AI Surveillance and Policing,government_defense
+37,2022Q3,0.034466697717745694,AI Surveillance and Policing,government_defense
+37,2022Q4,0.034968017057569294,AI Surveillance and Policing,government_defense
+37,2023Q1,0.013607370659107016,AI Surveillance and Policing,government_defense
+37,2023Q2,0.01440669716733184,AI Surveillance and Policing,government_defense
+37,2023Q3,0.017019510170195103,AI Surveillance and Policing,government_defense
+37,2023Q4,0.015371832156211051,AI Surveillance and Policing,government_defense
+37,2024Q1,0.01255275403094903,AI Surveillance and Policing,government_defense
+37,2024Q2,0.01519489099317331,AI Surveillance and Policing,government_defense
+37,2024Q3,0.016763646439456912,AI Surveillance and Policing,government_defense
+37,2024Q4,0.016172506738544475,AI Surveillance and Policing,government_defense
+37,2025Q1,0.014437175727498308,AI Surveillance and Policing,government_defense
+37,2025Q2,0.00952165041940603,AI Surveillance and Policing,government_defense
+37,2025Q3,0.009370474486753556,AI Surveillance and Policing,government_defense
+37,2025Q4,0.008848171638869314,AI Surveillance and Policing,government_defense
+38,2022Q1,0.01284796573875803,Humanoid Robotics Development,manufacturing_industrial
+38,2022Q2,0.019043195541105434,Humanoid Robotics Development,manufacturing_industrial
+38,2022Q3,0.033535165346995806,Humanoid Robotics Development,manufacturing_industrial
+38,2022Q4,0.014072494669509595,Humanoid Robotics Development,manufacturing_industrial
+38,2023Q1,0.011197732104890149,Humanoid Robotics Development,manufacturing_industrial
+38,2023Q2,0.008955514455368442,Humanoid Robotics Development,manufacturing_industrial
+38,2023Q3,0.010689082606890827,Humanoid Robotics Development,manufacturing_industrial
+38,2023Q4,0.013294557540506855,Humanoid Robotics Development,manufacturing_industrial
+38,2024Q1,0.014175954983226923,Humanoid Robotics Development,manufacturing_industrial
+38,2024Q2,0.01068046685752037,Humanoid Robotics Development,manufacturing_industrial
+38,2024Q3,0.010113604876697145,Humanoid Robotics Development,manufacturing_industrial
+38,2024Q4,0.012909632571996028,Humanoid Robotics Development,manufacturing_industrial
+38,2025Q1,0.01646740356417776,Humanoid Robotics Development,manufacturing_industrial
+38,2025Q2,0.012355474948991158,Humanoid Robotics Development,manufacturing_industrial
+38,2025Q3,0.013459408808246018,Humanoid Robotics Development,manufacturing_industrial
+38,2025Q4,0.011588755774802286,Humanoid Robotics Development,manufacturing_industrial
+39,2022Q2,0.0018578727357176034,Google Bard Chatbot Error,software_it
+39,2022Q3,0.002328830926874709,Google Bard Chatbot Error,software_it
+39,2023Q1,0.04961020552799433,Google Bard Chatbot Error,software_it
+39,2023Q2,0.022486128686849023,Google Bard Chatbot Error,software_it
+39,2023Q3,0.014632627646326276,Google Bard Chatbot Error,software_it
+39,2023Q4,0.01049023680930619,Google Bard Chatbot Error,software_it
+39,2024Q1,0.00670923060274862,Google Bard Chatbot Error,software_it
+39,2024Q2,0.0004404316229905307,Google Bard Chatbot Error,software_it
+39,2024Q3,0.0011083402604599613,Google Bard Chatbot Error,software_it
+39,2024Q4,0.0002837281883955171,Google Bard Chatbot Error,software_it
+39,2025Q1,0.0009023234829686443,Google Bard Chatbot Error,software_it
+39,2025Q2,0.0004534119247336205,Google Bard Chatbot Error,software_it
+39,2025Q3,0.0001703722633955192,Google Bard Chatbot Error,software_it
+39,2025Q4,0.0004698144233027954,Google Bard Chatbot Error,software_it
+40,2022Q1,0.0032119914346895075,AI Video Generation Tools,software_it
+40,2022Q2,0.00557361820715281,AI Video Generation Tools,software_it
+40,2022Q3,0.008849557522123894,AI Video Generation Tools,software_it
+40,2022Q4,0.012366737739872069,AI Video Generation Tools,software_it
+40,2023Q1,0.0051027639971651315,AI Video Generation Tools,software_it
+40,2023Q2,0.00769006132580551,AI Video Generation Tools,software_it
+40,2023Q3,0.00518887505188875,AI Video Generation Tools,software_it
+40,2023Q4,0.007685916078105526,AI Video Generation Tools,software_it
+40,2024Q1,0.009955632507304404,AI Video Generation Tools,software_it
+40,2024Q2,0.01398370402994935,AI Video Generation Tools,software_it
+40,2024Q3,0.014131338320864505,AI Video Generation Tools,software_it
+40,2024Q4,0.017165555397928783,AI Video Generation Tools,software_it
+40,2025Q1,0.011617414843221294,AI Video Generation Tools,software_it
+40,2025Q2,0.014735887553842666,AI Video Generation Tools,software_it
+40,2025Q3,0.014566828520316892,AI Video Generation Tools,software_it
+40,2025Q4,0.04001252838462141,AI Video Generation Tools,software_it
+41,2022Q1,0.0026766595289079227,Elon Musk AI ventures,none
+41,2022Q2,0.0074314909428704135,Elon Musk AI ventures,none
+41,2022Q3,0.015370284117373078,Elon Musk AI ventures,none
+41,2022Q4,0.020042643923240937,Elon Musk AI ventures,none
+41,2023Q1,0.009496810772501772,Elon Musk AI ventures,none
+41,2023Q2,0.017034945974885623,Elon Musk AI ventures,none
+41,2023Q3,0.015462847654628476,Elon Musk AI ventures,none
+41,2023Q4,0.008620689655172414,Elon Musk AI ventures,none
+41,2024Q1,0.008332431555026512,Elon Musk AI ventures,none
+41,2024Q2,0.00990971151728694,Elon Musk AI ventures,none
+41,2024Q3,0.005680243834857301,Elon Musk AI ventures,none
+41,2024Q4,0.010072350688040858,Elon Musk AI ventures,none
+41,2025Q1,0.010602300924881571,Elon Musk AI ventures,none
+41,2025Q2,0.005667649059170256,Elon Musk AI ventures,none
+41,2025Q3,0.008774171564869239,Elon Musk AI ventures,none
+41,2025Q4,0.007595333176728525,Elon Musk AI ventures,none
+42,2022Q1,0.006959314775160599,Smart Glasses and Wearables,software_it
+42,2022Q2,0.007895959126799815,Smart Glasses and Wearables,software_it
+42,2022Q3,0.0069864927806241265,Smart Glasses and Wearables,software_it
+42,2022Q4,0.006823027718550106,Smart Glasses and Wearables,software_it
+42,2023Q1,0.00666194188518781,Smart Glasses and Wearables,software_it
+42,2023Q2,0.0069113209383821666,Smart Glasses and Wearables,software_it
+42,2023Q3,0.006953092569530926,Smart Glasses and Wearables,software_it
+42,2023Q4,0.0052970502700457,Smart Glasses and Wearables,software_it
+42,2024Q1,0.00757493777729683,Smart Glasses and Wearables,software_it
+42,2024Q2,0.0071570138735961245,Smart Glasses and Wearables,software_it
+42,2024Q3,0.009836519811582156,Smart Glasses and Wearables,software_it
+42,2024Q4,0.010497942970634132,Smart Glasses and Wearables,software_it
+42,2025Q1,0.007444168734491315,Smart Glasses and Wearables,software_it
+42,2025Q2,0.013602357742008615,Smart Glasses and Wearables,software_it
+42,2025Q3,0.010222335803731152,Smart Glasses and Wearables,software_it
+42,2025Q4,0.007986845196147521,Smart Glasses and Wearables,software_it
+43,2022Q1,0.004817987152034261,Meta Llama AI Models,software_it
+43,2022Q2,0.019507663725034836,Meta Llama AI Models,software_it
+43,2022Q3,0.01350721937587331,Meta Llama AI Models,software_it
+43,2022Q4,0.008528784648187633,Meta Llama AI Models,software_it
+43,2023Q1,0.014599574769666904,Meta Llama AI Models,software_it
+43,2023Q2,0.016840260878029787,Meta Llama AI Models,software_it
+43,2023Q3,0.02718970527189705,Meta Llama AI Models,software_it
+43,2023Q4,0.02160365600332364,Meta Llama AI Models,software_it
+43,2024Q1,0.017205930094145654,Meta Llama AI Models,software_it
+43,2024Q2,0.025765249944946046,Meta Llama AI Models,software_it
+43,2024Q3,0.028955389304516486,Meta Llama AI Models,software_it
+43,2024Q4,0.024116896013618952,Meta Llama AI Models,software_it
+43,2025Q1,0.01951274531919693,Meta Llama AI Models,software_it
+43,2025Q2,0.026071185672183177,Meta Llama AI Models,software_it
+43,2025Q3,0.01908169350029815,Meta Llama AI Models,software_it
+43,2025Q4,0.009866102889358703,Meta Llama AI Models,software_it
+44,2022Q1,0.010171306209850108,AI Property Management Tools,real_estate_construction
+44,2022Q2,0.007895959126799815,AI Property Management Tools,real_estate_construction
+44,2022Q3,0.007452258965999069,AI Property Management Tools,real_estate_construction
+44,2022Q4,0.006823027718550106,AI Property Management Tools,real_estate_construction
+44,2023Q1,0.00368532955350815,AI Property Management Tools,real_estate_construction
+44,2023Q2,0.005743210357247152,AI Property Management Tools,real_estate_construction
+44,2023Q3,0.008717310087173101,AI Property Management Tools,real_estate_construction
+44,2023Q4,0.004777731616119651,AI Property Management Tools,real_estate_construction
+44,2024Q1,0.006059950221837464,AI Property Management Tools,real_estate_construction
+44,2024Q2,0.006826690156353226,AI Property Management Tools,real_estate_construction
+44,2024Q3,0.00914380714879468,AI Property Management Tools,real_estate_construction
+44,2024Q4,0.008653709746063271,AI Property Management Tools,real_estate_construction
+44,2025Q1,0.00620347394540943,AI Property Management Tools,real_estate_construction
+44,2025Q2,0.006234413965087282,AI Property Management Tools,real_estate_construction
+44,2025Q3,0.008348240906380441,AI Property Management Tools,real_estate_construction
+44,2025Q4,0.008926474042753112,AI Property Management Tools,real_estate_construction
+45,2022Q1,0.004817987152034261,LG AI OLED TVs,retail_consumer
+45,2022Q2,0.002786809103576405,LG AI OLED TVs,retail_consumer
+45,2022Q3,0.006054960409874243,LG AI OLED TVs,retail_consumer
+45,2022Q4,0.0042643923240938165,LG AI OLED TVs,retail_consumer
+45,2023Q1,0.0053862508858965276,LG AI OLED TVs,retail_consumer
+45,2023Q2,0.001849508420130439,LG AI OLED TVs,retail_consumer
+45,2023Q3,0.0013491075134910752,LG AI OLED TVs,retail_consumer
+45,2023Q4,0.006439551308683008,LG AI OLED TVs,retail_consumer
+45,2024Q1,0.00422032247592252,LG AI OLED TVs,retail_consumer
+45,2024Q2,0.00451442413565294,LG AI OLED TVs,retail_consumer
+45,2024Q3,0.006788584095317262,LG AI OLED TVs,retail_consumer
+45,2024Q4,0.0058164278621081,LG AI OLED TVs,retail_consumer
+45,2025Q1,0.007105797428378074,LG AI OLED TVs,retail_consumer
+45,2025Q2,0.009181591475855814,LG AI OLED TVs,retail_consumer
+45,2025Q3,0.005963029218843173,LG AI OLED TVs,retail_consumer
+45,2025Q4,0.0034453057708871662,LG AI OLED TVs,retail_consumer
+46,2022Q1,0.044967880085653104,Data Science Roles and Skills,none
+46,2022Q2,0.06781235485369252,Data Science Roles and Skills,none
+46,2022Q3,0.036329762459245456,Data Science Roles and Skills,none
+46,2022Q4,0.03113006396588486,Data Science Roles and Skills,none
+46,2023Q1,0.00963855421686747,Data Science Roles and Skills,none
+46,2023Q2,0.00856614426165677,Data Science Roles and Skills,none
+46,2023Q3,0.011726857617268577,Data Science Roles and Skills,none
+46,2023Q4,0.012152056501869547,Data Science Roles and Skills,none
+46,2024Q1,0.014067741586408397,Data Science Roles and Skills,none
+46,2024Q2,0.012332085443734861,Data Science Roles and Skills,none
+46,2024Q3,0.014685508451094486,Data Science Roles and Skills,none
+46,2024Q4,0.011349127535820683,Data Science Roles and Skills,none
+46,2025Q1,0.009699977441912927,Data Science Roles and Skills,none
+46,2025Q2,0.011562004080707322,Data Science Roles and Skills,none
+46,2025Q3,0.009285288355055796,Data Science Roles and Skills,none
+46,2025Q4,0.006342494714587738,Data Science Roles and Skills,none
+47,2022Q1,0.013383297644539615,AI in Telecom Networks,telecom
+47,2022Q2,0.012540640966093822,AI in Telecom Networks,telecom
+47,2022Q3,0.021891010712622262,AI in Telecom Networks,telecom
+47,2022Q4,0.01023454157782516,AI in Telecom Networks,telecom
+47,2023Q1,0.005527994330262225,AI in Telecom Networks,telecom
+47,2023Q2,0.007300691132093838,AI in Telecom Networks,telecom
+47,2023Q3,0.010273972602739725,AI in Telecom Networks,telecom
+47,2023Q4,0.008620689655172414,AI in Telecom Networks,telecom
+47,2024Q1,0.012119900443674928,AI in Telecom Networks,telecom
+47,2024Q2,0.010900682669015635,AI in Telecom Networks,telecom
+47,2024Q3,0.011776115267387088,AI in Telecom Networks,telecom
+47,2024Q4,0.0174492835863243,AI in Telecom Networks,telecom
+47,2025Q1,0.01714414617640424,AI in Telecom Networks,telecom
+47,2025Q2,0.014622534572659262,AI in Telecom Networks,telecom
+47,2025Q3,0.011500127779197547,AI in Telecom Networks,telecom
+47,2025Q4,0.012684989429175475,AI in Telecom Networks,telecom
+48,2022Q2,0.00046446818392940084,Bing Chat AI,software_it
+48,2022Q3,0.0004657661853749418,Bing Chat AI,software_it
+48,2022Q4,0.00042643923240938164,Bing Chat AI,software_it
+48,2023Q1,0.059107016300496105,Bing Chat AI,software_it
+48,2023Q2,0.01615886303903436,Bing Chat AI,software_it
+48,2023Q3,0.007160647571606476,Bing Chat AI,software_it
+48,2023Q4,0.005608641462401329,Bing Chat AI,software_it
+48,2024Q1,0.0019478411427334705,Bing Chat AI,software_it
+48,2024Q2,0.0033032371724289805,Bing Chat AI,software_it
+48,2024Q3,0.0008312551953449709,Bing Chat AI,software_it
+48,2024Q4,0.0014186409419775854,Bing Chat AI,software_it
+48,2025Q1,0.0013534852244529664,Bing Chat AI,software_it
+48,2025Q2,0.000906823849467241,Bing Chat AI,software_it
+48,2025Q3,0.0007666751852798365,Bing Chat AI,software_it
+48,2025Q4,0.0003132096155351969,Bing Chat AI,software_it
+49,2022Q1,0.020342612419700215,AI Weather Forecasting,none
+49,2022Q2,0.014862981885740827,AI Weather Forecasting,none
+49,2022Q3,0.015836050302748022,AI Weather Forecasting,none
+49,2022Q4,0.01535181236673774,AI Weather Forecasting,none
+49,2023Q1,0.011622962437987243,AI Weather Forecasting,none
+49,2023Q2,0.006132580550958824,AI Weather Forecasting,none
+49,2023Q3,0.015255292652552927,AI Weather Forecasting,none
+49,2023Q4,0.016825924387203987,AI Weather Forecasting,none
+49,2024Q1,0.011145979872308191,AI Weather Forecasting,none
+49,2024Q2,0.007487337590839022,AI Weather Forecasting,none
+49,2024Q3,0.011360487669714602,AI Weather Forecasting,none
+49,2024Q4,0.00893743793445879,AI Weather Forecasting,none
+49,2025Q1,0.007782540040604557,AI Weather Forecasting,none
+49,2025Q2,0.007141237814554523,AI Weather Forecasting,none
+49,2025Q3,0.007496379589402845,AI Weather Forecasting,none
+49,2025Q4,0.00516795865633075,AI Weather Forecasting,none
+50,2022Q1,0.0016059957173447537,AI in Tourism & Hospitality,transportation_automotive
+50,2022Q2,0.0037157454714352067,AI in Tourism & Hospitality,transportation_automotive
+50,2022Q3,0.0013972985561248254,AI in Tourism & Hospitality,transportation_automotive
+50,2022Q4,0.00255863539445629,AI in Tourism & Hospitality,transportation_automotive
+50,2023Q1,0.005244507441530829,AI in Tourism & Hospitality,transportation_automotive
+50,2023Q2,0.008955514455368442,AI in Tourism & Hospitality,transportation_automotive
+50,2023Q3,0.00684931506849315,AI in Tourism & Hospitality,transportation_automotive
+50,2023Q4,0.007062733693394266,AI in Tourism & Hospitality,transportation_automotive
+50,2024Q1,0.0046531760631966235,AI in Tourism & Hospitality,transportation_automotive
+50,2024Q2,0.005835719004624532,AI in Tourism & Hospitality,transportation_automotive
+50,2024Q3,0.0048489886395123305,AI in Tourism & Hospitality,transportation_automotive
+50,2024Q4,0.00879557384026103,AI in Tourism & Hospitality,transportation_automotive
+50,2025Q1,0.005977893074667269,AI in Tourism & Hospitality,transportation_automotive
+50,2025Q2,0.006007708002720472,AI in Tourism & Hospitality,transportation_automotive
+50,2025Q3,0.00647414600902973,AI in Tourism & Hospitality,transportation_automotive
+50,2025Q4,0.005559470675749746,AI in Tourism & Hospitality,transportation_automotive
+51,2022Q1,0.0010706638115631692,Anthropic Funding and Partnerships,software_it
+51,2022Q2,0.0013934045517882026,Anthropic Funding and Partnerships,software_it
+51,2022Q3,0.006054960409874243,Anthropic Funding and Partnerships,software_it
+51,2022Q4,0.00767590618336887,Anthropic Funding and Partnerships,software_it
+51,2023Q1,0.0069454287739192065,Anthropic Funding and Partnerships,software_it
+51,2023Q2,0.008663486810084688,Anthropic Funding and Partnerships,software_it
+51,2023Q3,0.013594852635948526,Anthropic Funding and Partnerships,software_it
+51,2023Q4,0.010905691732447029,Anthropic Funding and Partnerships,software_it
+51,2024Q1,0.006601017205930094,Anthropic Funding and Partnerships,software_it
+51,2024Q2,0.010019819423034574,Anthropic Funding and Partnerships,software_it
+51,2024Q3,0.011499030202272097,Anthropic Funding and Partnerships,software_it
+51,2024Q4,0.012342176195204994,Anthropic Funding and Partnerships,software_it
+51,2025Q1,0.010602300924881571,Anthropic Funding and Partnerships,software_it
+51,2025Q2,0.010881886193606891,Anthropic Funding and Partnerships,software_it
+51,2025Q3,0.010307521935428911,Anthropic Funding and Partnerships,software_it
+51,2025Q4,0.016756714431133034,Anthropic Funding and Partnerships,software_it
+52,2022Q1,0.005888650963597431,AI-Enabled Cybercrime,government_defense
+52,2022Q2,0.0018578727357176034,AI-Enabled Cybercrime,government_defense
+52,2022Q3,0.0018630647414997672,AI-Enabled Cybercrime,government_defense
+52,2022Q4,0.00810234541577825,AI-Enabled Cybercrime,government_defense
+52,2023Q1,0.02806520198440822,AI-Enabled Cybercrime,government_defense
+52,2023Q2,0.02579577533339823,AI-Enabled Cybercrime,government_defense
+52,2023Q3,0.017953507679535078,AI-Enabled Cybercrime,government_defense
+52,2023Q4,0.011113419194017449,AI-Enabled Cybercrime,government_defense
+52,2024Q1,0.011578833459582296,AI-Enabled Cybercrime,government_defense
+52,2024Q2,0.00979960361153931,AI-Enabled Cybercrime,government_defense
+52,2024Q3,0.011776115267387088,AI-Enabled Cybercrime,government_defense
+52,2024Q4,0.0116328557242162,AI-Enabled Cybercrime,government_defense
+52,2025Q1,0.011504624407850215,AI-Enabled Cybercrime,government_defense
+52,2025Q2,0.012242121967807754,AI-Enabled Cybercrime,government_defense
+52,2025Q3,0.014481642388619133,AI-Enabled Cybercrime,government_defense
+52,2025Q4,0.012841594236943074,AI-Enabled Cybercrime,government_defense
+53,2022Q1,0.0021413276231263384,SoundHound AI Analyst Ratings,software_it
+53,2022Q2,0.0037157454714352067,SoundHound AI Analyst Ratings,software_it
+53,2022Q3,0.002328830926874709,SoundHound AI Analyst Ratings,software_it
+53,2022Q4,0.00255863539445629,SoundHound AI Analyst Ratings,software_it
+53,2023Q1,0.004819277108433735,SoundHound AI Analyst Ratings,software_it
+53,2023Q2,0.003114961549693371,SoundHound AI Analyst Ratings,software_it
+53,2023Q3,0.002801992528019925,SoundHound AI Analyst Ratings,software_it
+53,2023Q4,0.0016618196925633569,SoundHound AI Analyst Ratings,software_it
+53,2024Q1,0.005951736825018938,SoundHound AI Analyst Ratings,software_it
+53,2024Q2,0.00495485575864347,SoundHound AI Analyst Ratings,software_it
+53,2024Q3,0.0048489886395123305,SoundHound AI Analyst Ratings,software_it
+53,2024Q4,0.005532699673712583,SoundHound AI Analyst Ratings,software_it
+53,2025Q1,0.0024813895781637717,SoundHound AI Analyst Ratings,software_it
+53,2025Q2,0.0029471775107685334,SoundHound AI Analyst Ratings,software_it
+53,2025Q3,0.002725956214328307,SoundHound AI Analyst Ratings,software_it
+53,2025Q4,0.0019575600970949806,SoundHound AI Analyst Ratings,software_it
+54,2022Q2,0.0013934045517882026,Anthropic Claude AI Models,software_it
+54,2022Q3,0.0004657661853749418,Anthropic Claude AI Models,software_it
+54,2022Q4,0.0008528784648187633,Anthropic Claude AI Models,software_it
+54,2023Q1,0.001559177888022679,Anthropic Claude AI Models,software_it
+54,2023Q2,0.0017521658717025211,Anthropic Claude AI Models,software_it
+54,2023Q3,0.0030095475300954753,Anthropic Claude AI Models,software_it
+54,2023Q4,0.0013502285002077274,Anthropic Claude AI Models,software_it
+54,2024Q1,0.003246401904555784,Anthropic Claude AI Models,software_it
+54,2024Q2,0.004404316229905308,Anthropic Claude AI Models,software_it
+54,2024Q3,0.0042948185092823495,Anthropic Claude AI Models,software_it
+54,2024Q4,0.005958291956305859,Anthropic Claude AI Models,software_it
+54,2025Q1,0.0054139408978118655,Anthropic Claude AI Models,software_it
+54,2025Q2,0.011788710043074134,Anthropic Claude AI Models,software_it
+54,2025Q3,0.008263054774682681,Anthropic Claude AI Models,software_it
+54,2025Q4,0.00516795865633075,Anthropic Claude AI Models,software_it
+55,2022Q1,0.010706638115631691,AI in Agriculture,agriculture_food
+55,2022Q2,0.011611704598235021,AI in Agriculture,agriculture_food
+55,2022Q3,0.006520726595249185,AI in Agriculture,agriculture_food
+55,2022Q4,0.007249466950959489,AI in Agriculture,agriculture_food
+55,2023Q1,0.00297661233167966,AI in Agriculture,agriculture_food
+55,2023Q2,0.004769784872967974,AI in Agriculture,agriculture_food
+55,2023Q3,0.004047322540473225,AI in Agriculture,agriculture_food
+55,2023Q4,0.005816368923971749,AI in Agriculture,agriculture_food
+55,2024Q1,0.004544962666378097,AI in Agriculture,agriculture_food
+55,2024Q2,0.0035234529839242457,AI in Agriculture,agriculture_food
+55,2024Q3,0.006511499030202272,AI in Agriculture,agriculture_food
+55,2024Q4,0.005248971485317066,AI in Agriculture,agriculture_food
+55,2025Q1,0.004624407850214302,AI in Agriculture,agriculture_food
+55,2025Q2,0.00464747222851961,AI in Agriculture,agriculture_food
+55,2025Q3,0.003918562058096942,AI in Agriculture,agriculture_food
+55,2025Q4,0.0028971889437005714,AI in Agriculture,agriculture_food
+56,2022Q1,0.010706638115631691,HPC and AI Data Center Infrastructure,software_it
+56,2022Q2,0.012540640966093822,HPC and AI Data Center Infrastructure,software_it
+56,2022Q3,0.009315323707498836,HPC and AI Data Center Infrastructure,software_it
+56,2022Q4,0.01279317697228145,HPC and AI Data Center Infrastructure,software_it
+56,2023Q1,0.003968816442239546,HPC and AI Data Center Infrastructure,software_it
+56,2023Q2,0.00584055290567507,HPC and AI Data Center Infrastructure,software_it
+56,2023Q3,0.008821087588210876,HPC and AI Data Center Infrastructure,software_it
+56,2023Q4,0.008205234732031575,HPC and AI Data Center Infrastructure,software_it
+56,2024Q1,0.010496699491397034,HPC and AI Data Center Infrastructure,software_it
+56,2024Q2,0.016295970050649637,HPC and AI Data Center Infrastructure,software_it
+56,2024Q3,0.016209476309226933,HPC and AI Data Center Infrastructure,software_it
+56,2024Q4,0.022130798694850334,HPC and AI Data Center Infrastructure,software_it
+56,2025Q1,0.016241822693435597,HPC and AI Data Center Infrastructure,software_it
+56,2025Q2,0.0176830650646112,HPC and AI Data Center Infrastructure,software_it
+56,2025Q3,0.01925206576369367,HPC and AI Data Center Infrastructure,software_it
+56,2025Q4,0.020280322605904,HPC and AI Data Center Infrastructure,software_it
+57,2022Q1,0.0005353319057815846,Elon Musk's Grok Chatbot,software_it
+57,2022Q3,0.0004657661853749418,Elon Musk's Grok Chatbot,software_it
+57,2022Q4,0.0008528784648187633,Elon Musk's Grok Chatbot,software_it
+57,2023Q1,0.0012756909992912829,Elon Musk's Grok Chatbot,software_it
+57,2023Q2,0.0014601382264187676,Elon Musk's Grok Chatbot,software_it
+57,2023Q3,0.0009339975093399751,Elon Musk's Grok Chatbot,software_it
+57,2023Q4,0.009555463232239303,Elon Musk's Grok Chatbot,software_it
+57,2024Q1,0.004328535872741046,Elon Musk's Grok Chatbot,software_it
+57,2024Q2,0.002202158114952654,Elon Musk's Grok Chatbot,software_it
+57,2024Q3,0.005541701302299806,Elon Musk's Grok Chatbot,software_it
+57,2024Q4,0.004539651014328273,Elon Musk's Grok Chatbot,software_it
+57,2025Q1,0.010376720054139409,Elon Musk's Grok Chatbot,software_it
+57,2025Q2,0.007027884833371118,Elon Musk's Grok Chatbot,software_it
+57,2025Q3,0.013885339466734816,Elon Musk's Grok Chatbot,software_it
+57,2025Q4,0.003367003367003367,Elon Musk's Grok Chatbot,software_it
+58,2022Q1,0.007494646680942184,Pope on AI ethics,none
+58,2022Q2,0.007895959126799815,Pope on AI ethics,none
+58,2022Q3,0.006054960409874243,Pope on AI ethics,none
+58,2022Q4,0.006396588486140725,Pope on AI ethics,none
+58,2023Q1,0.009355067328136074,Pope on AI ethics,none
+58,2023Q2,0.00856614426165677,Pope on AI ethics,none
+58,2023Q3,0.006537982565379826,Pope on AI ethics,none
+58,2023Q4,0.004985459077690071,Pope on AI ethics,none
+58,2024Q1,0.0046531760631966235,Pope on AI ethics,none
+58,2024Q2,0.006386258533362696,Pope on AI ethics,none
+58,2024Q3,0.004710446106954835,Pope on AI ethics,none
+58,2024Q4,0.003688466449141722,Pope on AI ethics,none
+58,2025Q1,0.003383713061132416,Pope on AI ethics,none
+58,2025Q2,0.0088415325323056,Pope on AI ethics,none
+58,2025Q3,0.004429678848283499,Pope on AI ethics,none
+58,2025Q4,0.004463237021376556,Pope on AI ethics,none
+59,2022Q1,0.0005353319057815846,Adobe Firefly Creative Tools,software_it
+59,2022Q2,0.0009289363678588017,Adobe Firefly Creative Tools,software_it
+59,2022Q3,0.002328830926874709,Adobe Firefly Creative Tools,software_it
+59,2022Q4,0.003837953091684435,Adobe Firefly Creative Tools,software_it
+59,2023Q1,0.003968816442239546,Adobe Firefly Creative Tools,software_it
+59,2023Q2,0.006229923099386742,Adobe Firefly Creative Tools,software_it
+59,2023Q3,0.0045662100456621,Adobe Firefly Creative Tools,software_it
+59,2023Q4,0.0052970502700457,Adobe Firefly Creative Tools,software_it
+59,2024Q1,0.004436749269559571,Adobe Firefly Creative Tools,software_it
+59,2024Q2,0.0070469059678484915,Adobe Firefly Creative Tools,software_it
+59,2024Q3,0.005403158769742311,Adobe Firefly Creative Tools,software_it
+59,2024Q4,0.005107107391119308,Adobe Firefly Creative Tools,software_it
+59,2025Q1,0.003947665237987819,Adobe Firefly Creative Tools,software_it
+59,2025Q2,0.006574472908637497,Adobe Firefly Creative Tools,software_it
+59,2025Q3,0.00425930658488798,Adobe Firefly Creative Tools,software_it
+59,2025Q4,0.004228329809725159,Adobe Firefly Creative Tools,software_it
+60,2022Q1,0.0005353319057815846,OpenAI Sora Video App,software_it
+60,2022Q2,0.0013934045517882026,OpenAI Sora Video App,software_it
+60,2022Q3,0.0027945971122496508,OpenAI Sora Video App,software_it
+60,2022Q4,0.003411513859275053,OpenAI Sora Video App,software_it
+60,2023Q1,0.0011339475549255846,OpenAI Sora Video App,software_it
+60,2023Q2,0.00038937019371167137,OpenAI Sora Video App,software_it
+60,2023Q3,0.0014528850145288502,OpenAI Sora Video App,software_it
+60,2023Q4,0.0009347735770668883,OpenAI Sora Video App,software_it
+60,2024Q1,0.013526674602315767,OpenAI Sora Video App,software_it
+60,2024Q2,0.006936798062100859,OpenAI Sora Video App,software_it
+60,2024Q3,0.0023552230534774174,OpenAI Sora Video App,software_it
+60,2024Q4,0.010356078876436374,OpenAI Sora Video App,software_it
+60,2025Q1,0.0037220843672456576,OpenAI Sora Video App,software_it
+60,2025Q2,0.0029471775107685334,OpenAI Sora Video App,software_it
+60,2025Q3,0.0017037226339551921,OpenAI Sora Video App,software_it
+60,2025Q4,0.01432933991073526,OpenAI Sora Video App,software_it
+61,2022Q1,0.008029978586723769,AI for Wildlife Conservation,none
+61,2022Q2,0.013934045517882025,AI for Wildlife Conservation,none
+61,2022Q3,0.011644154634373545,AI for Wildlife Conservation,none
+61,2022Q4,0.011087420042643924,AI for Wildlife Conservation,none
+61,2023Q1,0.00822111977321049,AI for Wildlife Conservation,none
+61,2023Q2,0.0053538401635354815,AI for Wildlife Conservation,none
+61,2023Q3,0.0061228725612287255,AI for Wildlife Conservation,none
+61,2023Q4,0.006647278770253427,AI for Wildlife Conservation,none
+61,2024Q1,0.006276377015474515,AI for Wildlife Conservation,none
+61,2024Q2,0.0041841004184100415,AI for Wildlife Conservation,none
+61,2024Q3,0.00457190357439734,AI for Wildlife Conservation,none
+61,2024Q4,0.0041140587317349975,AI for Wildlife Conservation,none
+61,2025Q1,0.0034965034965034965,AI for Wildlife Conservation,none
+61,2025Q2,0.004987531172069825,AI for Wildlife Conservation,none
+61,2025Q3,0.003663003663003663,AI for Wildlife Conservation,none
+61,2025Q4,0.0035236081747709656,AI for Wildlife Conservation,none
+62,2022Q1,0.005888650963597431,AI in Journalism,media_entertainment
+62,2022Q2,0.006038086391082211,AI in Journalism,media_entertainment
+62,2022Q3,0.006520726595249185,AI in Journalism,media_entertainment
+62,2022Q4,0.008955223880597015,AI in Journalism,media_entertainment
+62,2023Q1,0.021261516654854713,AI in Journalism,media_entertainment
+62,2023Q2,0.01664557578117395,AI in Journalism,media_entertainment
+62,2023Q3,0.019198837691988376,AI in Journalism,media_entertainment
+62,2023Q4,0.012255920232654757,AI in Journalism,media_entertainment
+62,2024Q1,0.010929553078671139,AI in Journalism,media_entertainment
+62,2024Q2,0.00990971151728694,AI in Journalism,media_entertainment
+62,2024Q3,0.00997506234413965,AI in Journalism,media_entertainment
+62,2024Q4,0.012767768477798268,AI in Journalism,media_entertainment
+62,2025Q1,0.009023234829686443,AI in Journalism,media_entertainment
+62,2025Q2,0.011788710043074134,AI in Journalism,media_entertainment
+62,2025Q3,0.012777919754663941,AI in Journalism,media_entertainment
+62,2025Q4,0.009787800485474904,AI in Journalism,media_entertainment
+63,2022Q1,0.013918629550321198,Battery and Energy Materials,energy_utilities
+63,2022Q2,0.012076172782164421,Battery and Energy Materials,energy_utilities
+63,2022Q3,0.009781089892873778,Battery and Energy Materials,energy_utilities
+63,2022Q4,0.011513859275053304,Battery and Energy Materials,energy_utilities
+63,2023Q1,0.003260099220411056,Battery and Energy Materials,energy_utilities
+63,2023Q2,0.003309646646549207,Battery and Energy Materials,energy_utilities
+63,2023Q3,0.0061228725612287255,Battery and Energy Materials,energy_utilities
+63,2023Q4,0.012152056501869547,Battery and Energy Materials,energy_utilities
+63,2024Q1,0.006168163618655989,Battery and Energy Materials,energy_utilities
+63,2024Q2,0.005835719004624532,Battery and Energy Materials,energy_utilities
+63,2024Q3,0.006927126627874758,Battery and Energy Materials,energy_utilities
+63,2024Q4,0.011207263441622926,Battery and Energy Materials,energy_utilities
+63,2025Q1,0.004511617414843221,Battery and Energy Materials,energy_utilities
+63,2025Q2,0.0034005894355021537,Battery and Energy Materials,energy_utilities
+63,2025Q3,0.0035778175313059034,Battery and Energy Materials,energy_utilities
+63,2025Q4,0.0036019105786547646,Battery and Energy Materials,energy_utilities
+64,2022Q1,0.011777301927194861,AI-Generated Art Auctions,media_entertainment
+64,2022Q2,0.016256386437529028,AI-Generated Art Auctions,media_entertainment
+64,2022Q3,0.031672100605496044,AI-Generated Art Auctions,media_entertainment
+64,2022Q4,0.04477611940298507,AI-Generated Art Auctions,media_entertainment
+64,2023Q1,0.02523033309709426,AI-Generated Art Auctions,media_entertainment
+64,2023Q2,0.015574807748466854,AI-Generated Art Auctions,media_entertainment
+64,2023Q3,0.01473640514736405,AI-Generated Art Auctions,media_entertainment
+64,2023Q4,0.011528874117158288,AI-Generated Art Auctions,media_entertainment
+64,2024Q1,0.013634887999134293,AI-Generated Art Auctions,media_entertainment
+64,2024Q2,0.011671438009249064,AI-Generated Art Auctions,media_entertainment
+64,2024Q3,0.009282349681352175,AI-Generated Art Auctions,media_entertainment
+64,2024Q4,0.014186409419775855,AI-Generated Art Auctions,media_entertainment
+64,2025Q1,0.011053462666365893,AI-Generated Art Auctions,media_entertainment
+64,2025Q2,0.011448651099523918,AI-Generated Art Auctions,media_entertainment
+64,2025Q3,0.008859357696566999,AI-Generated Art Auctions,media_entertainment
+64,2025Q4,0.0072821235611933285,AI-Generated Art Auctions,media_entertainment
+65,2022Q1,0.0053533190578158455,Quantum Computing Research,none
+65,2022Q2,0.006967022758941012,Quantum Computing Research,none
+65,2022Q3,0.004191895668374476,Quantum Computing Research,none
+65,2022Q4,0.0042643923240938165,Quantum Computing Research,none
+65,2023Q1,0.002834868887313962,Quantum Computing Research,none
+65,2023Q2,0.003017619001265453,Quantum Computing Research,none
+65,2023Q3,0.0049813200498132005,Quantum Computing Research,none
+65,2023Q4,0.004154549231408392,Quantum Computing Research,none
+65,2024Q1,0.003246401904555784,Quantum Computing Research,none
+65,2024Q2,0.0025324818321955517,Quantum Computing Research,none
+65,2024Q3,0.003740648379052369,Quantum Computing Research,none
+65,2024Q4,0.00879557384026103,Quantum Computing Research,none
+65,2025Q1,0.00620347394540943,Quantum Computing Research,none
+65,2025Q2,0.004534119247336205,Quantum Computing Research,none
+65,2025Q3,0.003663003663003663,Quantum Computing Research,none
+65,2025Q4,0.004854749040795552,Quantum Computing Research,none
+66,2022Q1,0.0005353319057815846,OpenAI FTC Investigation,software_it
+66,2022Q2,0.0023223409196470044,OpenAI FTC Investigation,software_it
+66,2022Q3,0.0027945971122496508,OpenAI FTC Investigation,software_it
+66,2022Q4,0.00255863539445629,OpenAI FTC Investigation,software_it
+66,2023Q1,0.02437987243090007,OpenAI FTC Investigation,software_it
+66,2023Q2,0.04730847853596807,OpenAI FTC Investigation,software_it
+66,2023Q3,0.0186799501867995,OpenAI FTC Investigation,software_it
+66,2023Q4,0.007374324885749896,OpenAI FTC Investigation,software_it
+66,2024Q1,0.009306352126393247,OpenAI FTC Investigation,software_it
+66,2024Q2,0.009689495705791676,OpenAI FTC Investigation,software_it
+66,2024Q3,0.007619839290662234,OpenAI FTC Investigation,software_it
+66,2024Q4,0.004539651014328273,OpenAI FTC Investigation,software_it
+66,2025Q1,0.009136025265057524,OpenAI FTC Investigation,software_it
+66,2025Q2,0.004760825209703015,OpenAI FTC Investigation,software_it
+66,2025Q3,0.006133401482238692,OpenAI FTC Investigation,software_it
+66,2025Q4,0.006264192310703938,OpenAI FTC Investigation,software_it
+67,2022Q1,0.004282655246252677,AI in Fashion Retail,retail_consumer
+67,2022Q2,0.00557361820715281,AI in Fashion Retail,retail_consumer
+67,2022Q3,0.006054960409874243,AI in Fashion Retail,retail_consumer
+67,2022Q4,0.00810234541577825,AI in Fashion Retail,retail_consumer
+67,2023Q1,0.004394046775336641,AI in Fashion Retail,retail_consumer
+67,2023Q2,0.005743210357247152,AI in Fashion Retail,retail_consumer
+67,2023Q3,0.0043586550435865505,AI in Fashion Retail,retail_consumer
+67,2023Q4,0.0075820523473203155,AI in Fashion Retail,retail_consumer
+67,2024Q1,0.0036792554918298886,AI in Fashion Retail,retail_consumer
+67,2024Q2,0.006496366439110328,AI in Fashion Retail,retail_consumer
+67,2024Q3,0.005264616237184816,AI in Fashion Retail,retail_consumer
+67,2024Q4,0.004255922825932757,AI in Fashion Retail,retail_consumer
+67,2025Q1,0.004624407850214302,AI in Fashion Retail,retail_consumer
+67,2025Q2,0.006234413965087282,AI in Fashion Retail,retail_consumer
+67,2025Q3,0.00425930658488798,AI in Fashion Retail,retail_consumer
+67,2025Q4,0.003367003367003367,AI in Fashion Retail,retail_consumer
+68,2022Q1,0.006423982869379015,AI Voice Cloning,software_it
+68,2022Q2,0.004644681839294009,AI Voice Cloning,software_it
+68,2022Q3,0.004657661853749418,AI Voice Cloning,software_it
+68,2022Q4,0.006396588486140725,AI Voice Cloning,software_it
+68,2023Q1,0.009355067328136074,AI Voice Cloning,software_it
+68,2023Q2,0.010220967584931373,AI Voice Cloning,software_it
+68,2023Q3,0.008613532586135326,AI Voice Cloning,software_it
+68,2023Q4,0.007478188616535106,AI Voice Cloning,software_it
+68,2024Q1,0.009306352126393247,AI Voice Cloning,software_it
+68,2024Q2,0.020039638846069147,AI Voice Cloning,software_it
+68,2024Q3,0.010252147409254642,AI Voice Cloning,software_it
+68,2024Q4,0.00879557384026103,AI Voice Cloning,software_it
+68,2025Q1,0.009474396571170765,AI Voice Cloning,software_it
+68,2025Q2,0.00793470868283836,AI Voice Cloning,software_it
+68,2025Q3,0.005622284692052134,AI Voice Cloning,software_it
+68,2025Q4,0.003993422598073761,AI Voice Cloning,software_it
+69,2022Q1,0.006423982869379015,AI Translation Tools,software_it
+69,2022Q2,0.008824895494658615,AI Translation Tools,software_it
+69,2022Q3,0.008849557522123894,AI Translation Tools,software_it
+69,2022Q4,0.01023454157782516,AI Translation Tools,software_it
+69,2023Q1,0.00595322466335932,AI Translation Tools,software_it
+69,2023Q2,0.004867127421395892,AI Translation Tools,software_it
+69,2023Q3,0.0055002075550020756,AI Translation Tools,software_it
+69,2023Q4,0.0036352305774823433,AI Translation Tools,software_it
+69,2024Q1,0.007791364570933882,AI Translation Tools,software_it
+69,2024Q2,0.006716582250605593,AI Translation Tools,software_it
+69,2024Q3,0.007896924355777223,AI Translation Tools,software_it
+69,2024Q4,0.007376932898283444,AI Translation Tools,software_it
+69,2025Q1,0.009136025265057524,AI Translation Tools,software_it
+69,2025Q2,0.007027884833371118,AI Translation Tools,software_it
+69,2025Q3,0.006388959877331971,AI Translation Tools,software_it
+69,2025Q4,0.003680212982538564,AI Translation Tools,software_it
+70,2022Q1,0.0005353319057815846,Palantir AI Stock Analysis,software_it
+70,2022Q2,0.0037157454714352067,Palantir AI Stock Analysis,software_it
+70,2022Q3,0.0009315323707498836,Palantir AI Stock Analysis,software_it
+70,2022Q4,0.001279317697228145,Palantir AI Stock Analysis,software_it
+70,2023Q1,0.001417434443656981,Palantir AI Stock Analysis,software_it
+70,2023Q2,0.0020441935169862747,Palantir AI Stock Analysis,software_it
+70,2023Q3,0.00228310502283105,Palantir AI Stock Analysis,software_it
+70,2023Q4,0.0024927295388450354,Palantir AI Stock Analysis,software_it
+70,2024Q1,0.004003895682285467,Palantir AI Stock Analysis,software_it
+70,2024Q2,0.002422373926447919,Palantir AI Stock Analysis,software_it
+70,2024Q3,0.004017733444167359,Palantir AI Stock Analysis,software_it
+70,2024Q4,0.004397786920130515,Palantir AI Stock Analysis,software_it
+70,2025Q1,0.0034965034965034965,Palantir AI Stock Analysis,software_it
+70,2025Q2,0.003854001360235774,Palantir AI Stock Analysis,software_it
+70,2025Q3,0.006644518272425249,Palantir AI Stock Analysis,software_it
+70,2025Q4,0.004541539425260355,Palantir AI Stock Analysis,software_it
+71,2022Q1,0.023554603854389723,Market Research Reports,none
+71,2022Q2,0.019043195541105434,Market Research Reports,none
+71,2022Q3,0.02608290638099674,Market Research Reports,none
+71,2022Q4,0.017057569296375266,Market Research Reports,none
+71,2023Q1,0.008079376328844791,Market Research Reports,none
+71,2023Q2,0.00807943151951718,Market Research Reports,none
+71,2023Q3,0.012453300124533,Market Research Reports,none
+71,2023Q4,0.01069796427087661,Market Research Reports,none
+71,2024Q1,0.013093821015041663,Market Research Reports,none
+71,2024Q2,0.014203919841444616,Market Research Reports,none
+71,2024Q3,0.017456359102244388,Market Research Reports,none
+71,2024Q4,0.01773301177471982,Market Research Reports,none
+71,2025Q1,0.011955786149334537,Market Research Reports,none
+71,2025Q2,0.011448651099523918,Market Research Reports,none
+71,2025Q3,0.011159383252406509,Market Research Reports,none
+71,2025Q4,0.009396288466055908,Market Research Reports,none
+72,2022Q1,0.010171306209850108,Journalism and Media Careers,media_entertainment
+72,2022Q2,0.012540640966093822,Journalism and Media Careers,media_entertainment
+72,2022Q3,0.015370284117373078,Journalism and Media Careers,media_entertainment
+72,2022Q4,0.013219616204690832,Journalism and Media Careers,media_entertainment
+72,2023Q1,0.011622962437987243,Journalism and Media Careers,media_entertainment
+72,2023Q2,0.013627956779908497,Journalism and Media Careers,media_entertainment
+72,2023Q3,0.01017019510170195,Journalism and Media Careers,media_entertainment
+72,2023Q4,0.012048192771084338,Journalism and Media Careers,media_entertainment
+72,2024Q1,0.01395952818958987,Journalism and Media Careers,media_entertainment
+72,2024Q2,0.014644351464435146,Journalism and Media Careers,media_entertainment
+72,2024Q3,0.012884455527847049,Journalism and Media Careers,media_entertainment
+72,2024Q4,0.01361895304298482,Journalism and Media Careers,media_entertainment
+72,2025Q1,0.010263929618768328,Journalism and Media Careers,media_entertainment
+72,2025Q2,0.009181591475855814,Journalism and Media Careers,media_entertainment
+72,2025Q3,0.009711219013544594,Journalism and Media Careers,media_entertainment
+72,2025Q4,0.007751937984496124,Journalism and Media Careers,media_entertainment
+73,2022Q1,0.0032119914346895075,Stock Market AI Impact,finance_insurance
+73,2022Q2,0.0009289363678588017,Stock Market AI Impact,finance_insurance
+73,2022Q3,0.002328830926874709,Stock Market AI Impact,finance_insurance
+73,2022Q4,0.00255863539445629,Stock Market AI Impact,finance_insurance
+73,2023Q1,0.003968816442239546,Stock Market AI Impact,finance_insurance
+73,2023Q2,0.00720334858366592,Stock Market AI Impact,finance_insurance
+73,2023Q3,0.006641760066417601,Stock Market AI Impact,finance_insurance
+73,2023Q4,0.004985459077690071,Stock Market AI Impact,finance_insurance
+73,2024Q1,0.009847419110485879,Stock Market AI Impact,finance_insurance
+73,2024Q2,0.007707553402334287,Stock Market AI Impact,finance_insurance
+73,2024Q3,0.008451094486007204,Stock Market AI Impact,finance_insurance
+73,2024Q4,0.003972194637537239,Stock Market AI Impact,finance_insurance
+73,2025Q1,0.019963907060681255,Stock Market AI Impact,finance_insurance
+73,2025Q2,0.007367943776921333,Stock Market AI Impact,finance_insurance
+73,2025Q3,0.009881591276940114,Stock Market AI Impact,finance_insurance
+73,2025Q4,0.018792576932111817,Stock Market AI Impact,finance_insurance
+74,2022Q1,0.008565310492505354,AI 3D Model Generation,software_it
+74,2022Q2,0.005109150023223409,AI 3D Model Generation,software_it
+74,2022Q3,0.009781089892873778,AI 3D Model Generation,software_it
+74,2022Q4,0.009381663113006396,AI 3D Model Generation,software_it
+74,2023Q1,0.00666194188518781,AI 3D Model Generation,software_it
+74,2023Q2,0.005548525260391317,AI 3D Model Generation,software_it
+74,2023Q3,0.0045662100456621,AI 3D Model Generation,software_it
+74,2023Q4,0.004777731616119651,AI 3D Model Generation,software_it
+74,2024Q1,0.006384590412293042,AI 3D Model Generation,software_it
+74,2024Q2,0.004073992512662409,AI 3D Model Generation,software_it
+74,2024Q3,0.005264616237184816,AI 3D Model Generation,software_it
+74,2024Q4,0.006100156050503618,AI 3D Model Generation,software_it
+74,2025Q1,0.0051883600270697045,AI 3D Model Generation,software_it
+74,2025Q2,0.0044207662661528,AI 3D Model Generation,software_it
+74,2025Q3,0.005111167901865576,AI 3D Model Generation,software_it
+74,2025Q4,0.0026622817320491737,AI 3D Model Generation,software_it
+75,2022Q1,0.004817987152034261,AI Beauty & Cosmetics,retail_consumer
+75,2022Q2,0.006967022758941012,AI Beauty & Cosmetics,retail_consumer
+75,2022Q3,0.006054960409874243,AI Beauty & Cosmetics,retail_consumer
+75,2022Q4,0.00810234541577825,AI Beauty & Cosmetics,retail_consumer
+75,2023Q1,0.001984408221119773,AI Beauty & Cosmetics,retail_consumer
+75,2023Q2,0.002530906259125864,AI Beauty & Cosmetics,retail_consumer
+75,2023Q3,0.002801992528019925,AI Beauty & Cosmetics,retail_consumer
+75,2023Q4,0.002596593269630245,AI Beauty & Cosmetics,retail_consumer
+75,2024Q1,0.0018396277459149443,AI Beauty & Cosmetics,retail_consumer
+75,2024Q2,0.001981942303457388,AI Beauty & Cosmetics,retail_consumer
+75,2024Q3,0.0019395954558049321,AI Beauty & Cosmetics,retail_consumer
+75,2024Q4,0.002553553695559654,AI Beauty & Cosmetics,retail_consumer
+75,2025Q1,0.003158132190390255,AI Beauty & Cosmetics,retail_consumer
+75,2025Q2,0.002720471548401723,AI Beauty & Cosmetics,retail_consumer
+75,2025Q3,0.002300025555839509,AI Beauty & Cosmetics,retail_consumer
+75,2025Q4,0.001644350481559784,AI Beauty & Cosmetics,retail_consumer
+76,2022Q1,0.011777301927194861,LG AI Smart Home Appliances,retail_consumer
+76,2022Q2,0.005109150023223409,LG AI Smart Home Appliances,retail_consumer
+76,2022Q3,0.0032603632976245926,LG AI Smart Home Appliances,retail_consumer
+76,2022Q4,0.00511727078891258,LG AI Smart Home Appliances,retail_consumer
+76,2023Q1,0.003543586109142452,LG AI Smart Home Appliances,retail_consumer
+76,2023Q2,0.002628248807553782,LG AI Smart Home Appliances,retail_consumer
+76,2023Q3,0.0035284350352843504,LG AI Smart Home Appliances,retail_consumer
+76,2023Q4,0.00519318653926049,LG AI Smart Home Appliances,retail_consumer
+76,2024Q1,0.0046531760631966235,LG AI Smart Home Appliances,retail_consumer
+76,2024Q2,0.004073992512662409,LG AI Smart Home Appliances,retail_consumer
+76,2024Q3,0.006095871432529786,LG AI Smart Home Appliances,retail_consumer
+76,2024Q4,0.005248971485317066,LG AI Smart Home Appliances,retail_consumer
+76,2025Q1,0.006429054816151591,LG AI Smart Home Appliances,retail_consumer
+76,2025Q2,0.006007708002720472,LG AI Smart Home Appliances,retail_consumer
+76,2025Q3,0.003663003663003663,LG AI Smart Home Appliances,retail_consumer
+76,2025Q4,0.00516795865633075,LG AI Smart Home Appliances,retail_consumer
+77,2022Q1,0.0016059957173447537,ClickUp AI Chat Agents,software_it
+77,2022Q2,0.0013934045517882026,ClickUp AI Chat Agents,software_it
+77,2022Q3,0.0018630647414997672,ClickUp AI Chat Agents,software_it
+77,2022Q4,0.0029850746268656717,ClickUp AI Chat Agents,software_it
+77,2023Q1,0.005669737774627924,ClickUp AI Chat Agents,software_it
+77,2023Q2,0.003991044485544631,ClickUp AI Chat Agents,software_it
+77,2023Q3,0.0037359900373599006,ClickUp AI Chat Agents,software_it
+77,2023Q4,0.004154549231408392,ClickUp AI Chat Agents,software_it
+77,2024Q1,0.004544962666378097,ClickUp AI Chat Agents,software_it
+77,2024Q2,0.0042942083241576745,ClickUp AI Chat Agents,software_it
+77,2024Q3,0.003463563313937379,ClickUp AI Chat Agents,software_it
+77,2024Q4,0.005107107391119308,ClickUp AI Chat Agents,software_it
+77,2025Q1,0.016241822693435597,ClickUp AI Chat Agents,software_it
+77,2025Q2,0.006347766946270687,ClickUp AI Chat Agents,software_it
+77,2025Q3,0.005537098560354375,ClickUp AI Chat Agents,software_it
+77,2025Q4,0.005481168271865946,ClickUp AI Chat Agents,software_it
+78,2022Q1,0.0016059957173447537,WhatsApp AI Stickers,software_it
+78,2022Q2,0.00046446818392940084,WhatsApp AI Stickers,software_it
+78,2022Q3,0.0009315323707498836,WhatsApp AI Stickers,software_it
+78,2022Q4,0.0021321961620469083,WhatsApp AI Stickers,software_it
+78,2023Q1,0.002126151665485471,WhatsApp AI Stickers,software_it
+78,2023Q2,0.0027255913559816997,WhatsApp AI Stickers,software_it
+78,2023Q3,0.00311332503113325,WhatsApp AI Stickers,software_it
+78,2023Q4,0.0028043207312006646,WhatsApp AI Stickers,software_it
+78,2024Q1,0.0012985607618223136,WhatsApp AI Stickers,software_it
+78,2024Q2,0.004404316229905308,WhatsApp AI Stickers,software_it
+78,2024Q3,0.004987531172069825,WhatsApp AI Stickers,software_it
+78,2024Q4,0.0032628741665484467,WhatsApp AI Stickers,software_it
+78,2025Q1,0.003947665237987819,WhatsApp AI Stickers,software_it
+78,2025Q2,0.004760825209703015,WhatsApp AI Stickers,software_it
+78,2025Q3,0.003663003663003663,WhatsApp AI Stickers,software_it
+78,2025Q4,0.0036019105786547646,WhatsApp AI Stickers,software_it

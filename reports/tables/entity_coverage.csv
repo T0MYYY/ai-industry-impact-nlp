@@ -1,0 +1,61 @@
+type,name,n_docs,n_mentions,n_domains,n_keys_merged
+company,OpenAI,24668,95199,2177,5
+technology,ChatGPT,21008,71856,2569,21
+company,Google,19932,74837,2020,5
+company,Microsoft,16140,49502,1731,3
+company,Nvidia,9580,38088,1106,5
+company,Meta,8031,25535,1353,3
+person,Sam Altman,6324,13177,1026,6
+company,Apple,6121,24901,973,3
+person,Elon Musk,5385,11297,1069,5
+company,Amazon,5385,13794,1022,4
+company,Anthropic,3338,9108,748,2
+person,Donald Trump,3263,6179,812,10
+technology,Gemini,2879,7688,672,12
+technology,GPT-4,2698,5663,799,11
+company,AMD,2292,8642,477,1
+company,Tesla,2173,5374,654,3
+company,IBM,2169,6547,615,2
+company,Intel,2149,7044,518,2
+technology,iPhone,2050,4018,585,2
+government_institution,European Union,1834,3263,671,4
+company,Samsung,1809,6747,499,1
+person,Joe Biden,1728,2642,706,5
+company,AWS,1718,4085,499,3
+technology,Google Bard,1677,5081,595,3
+person,Jensen Huang,1670,2965,466,3
+company,DeepSeek,1559,6051,445,2
+technology,Bing,1502,3626,545,2
+person,Mark Zuckerberg,1497,2467,508,4
+technology,Microsoft Copilot,1465,4131,499,6
+person,Satya Nadella,1404,2121,479,3
+technology,Instagram,1311,2442,541,1
+technology,Claude,1266,3152,444,8
+person,Sundar Pichai,1201,1844,437,3
+government_institution,United States Congress,1174,2126,550,4
+government_institution,White House,1151,1934,521,1
+technology,Siri,964,2356,411,1
+technology,WhatsApp,882,2056,373,1
+technology,GPT-3,840,1530,417,5
+technology,DALL-E,830,1293,471,5
+technology,Grok,804,2771,356,5
+government_institution,European Commission,780,1259,330,5
+person,Narendra Modi,752,1221,177,7
+person,Greg Brockman,750,1112,346,2
+technology,GPT,702,1133,380,4
+government_institution,United States government,660,851,321,5
+government_institution,Federal Trade Commission,646,1443,335,3
+person,Bill Gates,610,1121,314,2
+government_institution,Trump administration,592,788,261,1
+government_institution,Biden administration,583,745,313,1
+person,Rishi Sunak,558,1041,264,6
+person,Ilya Sutskever,546,918,264,3
+person,Tim Cook,545,769,252,2
+person,Mira Murati,517,850,283,3
+government_institution,Federal Reserve,442,634,155,2
+government_institution,United States Senate,393,670,253,3
+government_institution,European Parliament,363,541,215,3
+government_institution,FDA,359,859,178,1
+government_institution,NASA,357,730,222,1
+government_institution,Department of Defense,351,685,177,2
+government_institution,China,335,463,225,1
